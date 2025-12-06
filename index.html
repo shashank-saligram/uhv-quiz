@@ -111,7 +111,7 @@
 </head>
 <body>
 <h1>MCQ Test</h1>
-<div class="timer">Time Left: <span id="time">20:00</span></div>
+<div class="timer">Time Left: <span id="time">180:00</span></div>
 <div id="quiz"></div>
 
 <div class="controls">
@@ -192,7 +192,7 @@ function shuffleArray(arr) {
 /* ---------- Quiz lifecycle ---------- */
 function startTimer() {
   clearInterval(timer);
-  timeLeft = 20 * 60;
+  timeLeft = 180 * 60;
   document.getElementById('time').textContent = formatTime(timeLeft);
   timer = setInterval(() => {
     timeLeft--;
@@ -213,7 +213,7 @@ function formatTime(sec) {
 function prepareQuiz() {
   userAnswers = {};
   currentQuestion = 0;
-  quizData = shuffleArray(allQuestions).slice(0, 40).map(q => {
+  quizData = shuffleArray(allQuestions).slice(0, 100).map(q => {
     const opts = shuffleArray(q.options.slice());
     return { question: q.question, options: opts, answerText: q.correctText };
   });
@@ -375,3 +375,4 @@ fetch('questions.json')
 </script>
 </body>
 </html>
+
