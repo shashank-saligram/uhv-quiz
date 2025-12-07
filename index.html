@@ -192,7 +192,7 @@ function shuffleArray(arr) {
 /* ---------- Quiz lifecycle ---------- */
 function startTimer() {
   clearInterval(timer);
-  timeLeft = 180 * 60;
+  timeLeft = 60 * 60;
   document.getElementById('time').textContent = formatTime(timeLeft);
   timer = setInterval(() => {
     timeLeft--;
@@ -375,4 +375,5 @@ fetch('questions.json')
 </script>
 </body>
 </html>
+
 
