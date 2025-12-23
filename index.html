@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>MCQ Test</title>
+  <!-- Mobile responsiveness -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* ---------------- Base Styling ---------------- */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 5%;
+      line-height: 1.5;
+      background-color: #f9f9f9;
+      color: #222;
+      width: 100%;
+      min-width: 100%;
+    }
+
+    h1, h2 {
+      text-align: center;
+    }
+
+    /* Timer styling */
+    .timer {
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    /* Quiz container */
+    #quiz {
+      margin: 0 auto 20px auto;
+      max-width: 600px;
+      width: 100%;
+      padding: 15px;
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    /* Options */
+    .options label {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 1em;
+    }
+
+    input[type="radio"] {
+      margin-right: 8px;
+      transform: scale(1.2);
+    }
+
+    /* Buttons */
+    button {
+      margin: 5px 8px 5px 0;
+      padding: 10px 15px;
+      font-size: 1em;
+      border: none;
+      border-radius: 6px;
+      background-color: #007bff;
+      color: #fff;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    .controls {
+      text-align: center;
+      margin-top: 10px;
+    }
+    
+    .submit-top{
+      text-align: center;
+      margin-bottom: 15px;
+    }
+
+    /* Results & review */
+    .correct { color: green; font-weight: bold; }
+    .wrong { color: red; font-weight: bold; }
+    .unanswered { color: orange; font-style: italic; }
+    .answer-block {
+      margin-bottom: 15px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 10px;
+      background: #f5f5f5;
+      border-radius: 5px;
+      padding: 10px;
+    }
+
+    /* ----------- NEW: Score box styling ----------- */
+    .score-box {
+      background-color: #fffae6;
+      border: 2px solid #ffd700;
+      padding: 15px;
+      font-size: 1.3em;
+      font-weight: bold;
+      text-align: center;
+      border-radius: 10px;
+      margin: 15px 0;
+      color: #b36200;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 600px) {
+      body { margin: 3%; }
+      h1, h2 { font-size: 1.4em; }
+      .timer { font-size: 1.1em; }
+      button { width: 100%; margin-bottom: 10px; }
+      .score-box { font-size: 1.2em; padding: 12px; }
+    }
+  </style>
+</head>
+<body>
+<h1>MCQ Test</h1>
+<div class="timer">Time Left: <span id="time">180:00</span></div>
+<div id="quiz"></div>
+
+<div class="submit-top">
+  <button id="submitNow">Submit Now</button>
+</div>
+
+<div class="controls">
+  <button id="prev">Previous</button>
+  <button id="next">Next</button>
+</div>
+
+
+<div id="result"></div>
+
+<script>
+/* ---------- Helpers ---------- */
+function normalize(s) {
+  return String(s || '').replace(/^"|"$/g, '').trim().toLowerCase();
+}
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+function splitCSVRow(row) {
+  const res = [];
+  let cur = '';
+  let inQuotes = false;
+  for (let i = 0; i < row.length; i++) {
+    const ch = row[i];
+    if (ch === '"') {
+      if (inQuotes && row[i + 1] === '"') { cur += '"'; i++; } 
+      else inQuotes = !inQuotes;
+    } else if (ch === ',' && !inQuotes) {
+      res.push(cur);
+      cur = '';
+    } else {
+      cur += ch;
+    }
+  }
+  res.push(cur);
+  return res.map(s => s.trim());
+}
+
+/* ---------- Globals ---------- */
+let allQuestions = [];
+let quizData = [];
+let currentQuestion = 0;
+let userAnswers = {};
+let timer = null;
+let timeLeft = 0;
+
+/* ---------- CSV parsing ---------- */
+function parseCSV(data) {
+  const lines = data.split(/\r?\n/).map(l=>l.trim()).filter(l => l !== '');
+  if (lines.length <= 1) return [];
+  const out = [];
+  for (let i = 1; i < lines.length; i++) {
+    const fields = splitCSVRow(lines[i]);
+    if (fields.length < 5) continue;
+    const question = fields[0].replace(/^"|"$/g, '').trim();
+    const options = fields.slice(1,5).map(o => o.replace(/^"|"$/g, '').trim());
+    let correctText = options[0]; 
+    out.push({ question, options, correctText });
+  }
+  return out;
+}
+
+/* ---------- Shuffle ---------- */
+function shuffleArray(arr) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/* ---------- Quiz lifecycle ---------- */
+function startTimer() {
+  clearInterval(timer);
+  timeLeft = 60 * 60;
+  document.getElementById('time').textContent = formatTime(timeLeft);
+  timer = setInterval(() => {
+    timeLeft--;
+    document.getElementById('time').textContent = formatTime(timeLeft);
+    if (timeLeft <= 0) {
+      clearInterval(timer);
+      submitQuiz();
+    }
+  }, 1000);
+}
+function formatTime(sec) {
+  if (sec < 0) sec = 0;
+  const m = Math.floor(sec / 60);
+  const s = sec % 60;
+  return `${m}:${s < 10 ? '0' : ''}${s}`;
+}
+
+function prepareQuiz() {
+  userAnswers = {};
+  currentQuestion = 0;
+  quizData = shuffleArray(allQuestions).slice(0, 100).map(q => {
+    const opts = shuffleArray(q.options.slice());
+    return { question: q.question, options: opts, answerText: q.correctText };
+  });
+}
+
+/* ---------- UI: show question ---------- */
+function loadQuestion() {
+  if (currentQuestion >= quizData.length) {
+    submitQuiz();
+    return;
+  }
+  const q = quizData[currentQuestion];
+  const quizDiv = document.getElementById('quiz');
+  let html = `<h2>Question ${currentQuestion + 1} of ${quizData.length}</h2>`;
+  html += `<p>${escapeHtml(q.question)}</p><div class="options">`;
+  for (let i = 0; i < q.options.length; i++) {
+    const opt = q.options[i];
+    const checked = userAnswers[currentQuestion] !== undefined && normalize(userAnswers[currentQuestion]) === normalize(opt) ? 'checked' : '';
+    html += `<label><input type="radio" name="answer" value="${i}" ${checked}> ${escapeHtml(opt)}</label>`;
+  }
+  html += '</div>';
+  quizDiv.innerHTML = html;
+  document.getElementById('prev').style.display = currentQuestion === 0 ? 'none' : 'inline-block';
+}
+
+function saveAnswer() {
+  const selected = document.querySelector('input[name="answer"]:checked');
+  if (selected) {
+    const idx = parseInt(selected.value, 10);
+    userAnswers[currentQuestion] = quizData[currentQuestion].options[idx];
+  }
+}
+
+document.getElementById('next').addEventListener('click', () => {
+  saveAnswer();
+  if (userAnswers[currentQuestion] === undefined) {
+    alert('Please select an answer!');
+    return;
+  }
+  currentQuestion++;
+  loadQuestion();
+});
+document.getElementById('prev').addEventListener('click', () => {
+  saveAnswer();
+  if (currentQuestion > 0) {
+    currentQuestion--;
+    loadQuestion();
+  }
+});
+document.getElementById('submitNow').addEventListener('click', () => {
+  saveAnswer();
+  submitQuiz();
+});
+
+/* ---------- Submit & Review ---------- */
+function submitQuiz() {
+  clearInterval(timer);
+  let score = 0;
+  for (let i = 0; i < quizData.length; i++) {
+    const userAns = userAnswers[i];
+    const correct = quizData[i].answerText;
+    if (userAns !== undefined && normalize(userAns) === normalize(correct)) score++;
+  }
+
+  document.getElementById('quiz').innerHTML = '';
+  document.getElementById('prev').style.display = 'none';
+  document.getElementById('next').style.display = 'none';
+  document.getElementById('submitNow').style.display = 'none';
+
+  const resultDiv = document.getElementById('result');
+  resultDiv.innerHTML = `
+    <h2>Quiz Over!</h2>
+    <div class="score-box">Your final score: ${score} / ${quizData.length}</div>
+    <button id="review">Review Answers</button>
+    <button id="restart">Restart Quiz</button>
+  `;
+
+  document.getElementById('review').addEventListener('click', () => {
+    showReview(score);
+  });
+
+  document.getElementById('restart').addEventListener('click', () => {
+    prepareQuiz();
+    startTimer();
+    loadQuestion();
+    document.getElementById('result').innerHTML = '';
+    document.getElementById('prev').style.display = 'inline-block';
+    document.getElementById('next').style.display = 'inline-block';
+    document.getElementById('submitNow').style.display = 'inline-block';
+  });
+}
+
+function showReview(score) {
+  let html = `<h2>Review</h2>
+              <div class="score-box">Your final score: ${score} / ${quizData.length}</div>`;
+
+  quizData.forEach((q, idx) => {
+    const userAns = userAnswers[idx];
+    const correct = q.answerText;
+    html += `<div class="answer-block"><p><b>Q${idx + 1}:</b> ${escapeHtml(q.question)}</p>`;
+    
+    if (userAns === undefined) {
+      html += `<p class="unanswered">⚠ Unanswered</p>`;
+    }
+
+    q.options.forEach(opt => {
+      const nOpt = normalize(opt);
+      const nUser = userAns === undefined ? null : normalize(userAns);
+      const nCorrect = normalize(correct);
+      if (nOpt === nCorrect && nUser === nCorrect) {
+        html += `<p class="correct">✔ ${escapeHtml(opt)} (Your Answer)</p>`;
+      } else if (nOpt === nUser && nUser !== nCorrect) {
+        html += `<p class="wrong">✘ ${escapeHtml(opt)} (Your Answer)</p>`;
+      } else if (nOpt === nCorrect) {
+        html += `<p class="correct">✔ ${escapeHtml(opt)} (Correct Answer)</p>`;
+      } else {
+        html += `<p>${escapeHtml(opt)}</p>`;
+      }
+    });
+    html += '</div>';
+  });
+
+  html += `<button id="restart2">Restart Quiz</button>`;
+  document.getElementById('result').innerHTML = html;
+
+  document.getElementById('restart2').addEventListener('click', () => {
+    prepareQuiz();
+    startTimer();
+    loadQuestion();
+    document.getElementById('result').innerHTML = '';
+    document.getElementById('prev').style.display = 'inline-block';
+    document.getElementById('next').style.display = 'inline-block';
+    document.getElementById('submitNow').style.display = 'inline-block';
+  });
+}
+
+/* ---------- Boot: load JSON then start quiz ---------- */
+fetch('questions.json')
+  .then(r => r.json())
+  .then(data => {
+    allQuestions = data.map(q => ({
+      question: q.question,
+      options: [q.option1, q.option2, q.option3, q.option4],
+      correctText: q.option1
+    }));
+    if (!allQuestions.length) {
+      document.getElementById('quiz').innerHTML = '<p style="color:red">No valid questions found in questions.json — check format.</p>';
+      return;
+    }
+    prepareQuiz();
+    startTimer();
+    loadQuestion();
+  })
+  .catch(err => {
+    document.getElementById('quiz').innerHTML = `<p style="color:red">Failed to load questions.json — open dev console for details.</p>`;
+    console.error(err);
+  });
+
+</script>
+</body>
+</html>
+
+
+
