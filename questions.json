@@ -1,0 +1,1885 @@
+[
+  {
+    "question": "The nose of the redesigned Shinkanzen bullet train is inspired by",
+    "option1": "Kingfisher beak",
+    "option2": "Crane peak",
+    "option3": "Owl Peak",
+    "option4": "Herons peak"
+  },
+  {
+    "question": "Passive cooling in sky scrapers is inspired by",
+    "option1": "Termite Mounds",
+    "option2": "Earthwork Mounds",
+    "option3": "Ant Mounts",
+    "option4": "Spiro Mounds"
+  },
+  {
+    "question": "Belt movement of military tanks was inspired by",
+    "option1": "Caterpillar Movement",
+    "option2": "Termite Movement",
+    "option3": "Ant Movement",
+    "option4": "Butterfly Movement"
+  },
+  {
+    "question": "Retinal prosthetic developed by scientists is approved by",
+    "option1": "USFDA",
+    "option2": "USEPA",
+    "option3": "CPCB",
+    "option4": "SPCB"
+  },
+  {
+    "question": "The gene from ____________ was used to develop genetically modified corn",
+    "option1": "Bacillus thuringiensis",
+    "option2": "Bacillus cereus",
+    "option3": "Bacillus subtilis",
+    "option4": "Bacillus anthracis"
+  },
+  {
+    "question": "Protein produced by Bacillus thuringiensis which has insecticide property is",
+    "option1": "Cry Protein",
+    "option2": "Res Protein",
+    "option3": "Try Protein",
+    "option4": "Taf Protein"
+  },
+  {
+    "question": "Biofertilizers have the potential to",
+    "option1": "Replace chemical nitrogen and phosphorus",
+    "option2": "Reduce crop yield",
+    "option3": "Destimulate plant growth",
+    "option4": "Reduce soil fertility"
+  },
+  {
+    "question": "In the case of self healing concrete the microstructure analysis can be done by",
+    "option1": "SEM",
+    "option2": "XRD",
+    "option3": "FTIR",
+    "option4": "XPS"
+  },
+  {
+    "question": "_______ is a pollution control technique using a bioreactor containing living material to capture and biologically degrade pollutants",
+    "option1": "Biofiltration",
+    "option2": "Bioaugmentation",
+    "option3": "Bioleaching",
+    "option4": "Biomimetics"
+  },
+  {
+    "question": "A nanoparticle is a small particle that ranges between",
+    "option1": "1 to 100 nm",
+    "option2": "1 to 100 mm",
+    "option3": "1 to 1000 nm",
+    "option4": "1 to 10 �m"
+  },
+  {
+    "question": "The tensile strength of carbon nanotubes is approximately ___________ times greater than that of steel of the same diameter",
+    "option1": 100,
+    "option2": 10,
+    "option3": 25,
+    "option4": 50
+  },
+  {
+    "question": "Who first used the term nanotechnology and when",
+    "option1": "Norio Taniguchi, 1974",
+    "option2": "Richard Feynman, 1959",
+    "option3": "Eric Drexler, 1986",
+    "option4": "Alexander Fleming, 1940"
+  },
+  {
+    "question": "The width of carbon nanotube is",
+    "option1": "0.5-2.5 nm",
+    "option2": "0.1-0.5 nm",
+    "option3": "2.5-4.5 nm",
+    "option4": "4.5-6.5 nm"
+  },
+  {
+    "question": "If 10 hydrogen atoms are laid side by side the length of this chain would be",
+    "option1": "7 nm",
+    "option2": "10 nm",
+    "option3": "2 nm",
+    "option4": "20 nm"
+  },
+  {
+    "question": "Human hair is ________ nm in size",
+    "option1": "50000-100000",
+    "option2": "500-1000",
+    "option3": "500000-1000000",
+    "option4": "50-100"
+  },
+  {
+    "question": "The prefix nano comes from ______ word nanaos which means dwarf",
+    "option1": "Greek",
+    "option2": "French",
+    "option3": "Spanish",
+    "option4": "Latin"
+  },
+  {
+    "question": "Why is there a need to switch to organic farming?",
+    "option1": "Increasing environmental pollution",
+    "option2": "Increasing poverty",
+    "option3": "Increasing road accidents",
+    "option4": "Increasing population"
+  },
+  {
+    "question": "Early detection of cancer can be achieved by",
+    "option1": "AI",
+    "option2": "CCD",
+    "option3": "BBD",
+    "option4": "MRIS"
+  },
+  {
+    "question": "Prokaryotic cell size ranges from ____________ in diameter",
+    "option1": "0.1 to 5.0 �m",
+    "option2": "0.1 to 50 �m",
+    "option3": "10 to 50 �m",
+    "option4": "2 to 10 �m"
+  },
+  {
+    "question": "_____________ do not have a true nucleus and membrane-bound organelles",
+    "option1": "Prokaryotic cells",
+    "option2": "Eukaryotic cells",
+    "option3": "Plant cells",
+    "option4": "Animal cells"
+  },
+  {
+    "question": "Mitochondria, Golgi bodies, chloroplast, and lysosomes are absent in",
+    "option1": "Prokaryotic cells",
+    "option2": "Eukaryotic cells",
+    "option3": "Plant cells",
+    "option4": "Animal cells"
+  },
+  {
+    "question": "____________ protein is the important constituents of eukaryotic chromosomes",
+    "option1": "Histone",
+    "option2": "Heme",
+    "option3": "Cistone",
+    "option4": "Diastone"
+  },
+  {
+    "question": "The asexually mode of division in prokaryotes is by",
+    "option1": "Binary fission",
+    "option2": "Conjugation",
+    "option3": "Ligation",
+    "option4": "Mitosis"
+  },
+  {
+    "question": "The sexual mode of reproduction in prokaryotes is by",
+    "option1": "Conjugation",
+    "option2": "Binary fission",
+    "option3": "Ligation",
+    "option4": "Mitosis"
+  },
+  {
+    "question": "The outer protective covering found in the bacterial cells which helps in attachment is",
+    "option1": "Capsule",
+    "option2": "Cell wall",
+    "option3": "Cell membrane",
+    "option4": "Cytoplasm"
+  },
+  {
+    "question": "__________ are involved in protein synthesis",
+    "option1": "Ribosomes",
+    "option2": "Lysosomes",
+    "option3": "Mitochondria",
+    "option4": "Vacuoles"
+  },
+  {
+    "question": "______ are hair-like outgrowths that attach to the surface of other bacterial cells",
+    "option1": "Pili",
+    "option2": "Capsule",
+    "option3": "Flagella",
+    "option4": "Cilia"
+  },
+  {
+    "question": "__________ can be used to observe virus",
+    "option1": "Electron Microscope",
+    "option2": "Light Microscope",
+    "option3": "Naked eye",
+    "option4": "Fluorescent microscope"
+  },
+  {
+    "question": "__________ possess extrachromosomal DNA known as plasmids",
+    "option1": "Bacteria",
+    "option2": "Fungi",
+    "option3": "Yeast",
+    "option4": "Plant cell"
+  },
+  {
+    "question": "Cell wall of bacterial cell is composed of",
+    "option1": "Peptidoglycan",
+    "option2": "Protein",
+    "option3": "Cellulose",
+    "option4": "Chitin"
+  },
+  {
+    "question": "Chitin is the structural component present in ________ cell wall",
+    "option1": "Fungal",
+    "option2": "Bacterial",
+    "option3": "Cyanobacterial",
+    "option4": "Virus"
+  },
+  {
+    "question": "Gram Positive bacteria have thick layer of ___________",
+    "option1": "Peptidoglycan",
+    "option2": "Chitin",
+    "option3": "Mannose",
+    "option4": "Teichoic Acid"
+  },
+  {
+    "question": "Gram negative organisms are very _____________ to antibiotics",
+    "option1": "Resistant",
+    "option2": "Susceptible",
+    "option3": "Receptive",
+    "option4": "Vulnerable"
+  },
+  {
+    "question": "_________ content is very low in gram positive bacteria",
+    "option1": "Lipid",
+    "option2": "Carbohydrate",
+    "option3": "Protein",
+    "option4": "Fat"
+  },
+  {
+    "question": "Cell wall thickness of gram positive organism is",
+    "option1": "20-80 nm",
+    "option2": "2-8 nm",
+    "option3": "200-800 nm",
+    "option4": "150-300 nm"
+  },
+  {
+    "question": "When gram positive bacteria is stained by gram staining technique and visualized under the microscope it looks ____________",
+    "option1": "Purple",
+    "option2": "Pink",
+    "option3": "Red",
+    "option4": "Brown"
+  },
+  {
+    "question": "__________ needs to enter a living thing to perform its only function, which is to replicate",
+    "option1": "Virus",
+    "option2": "Bacteria",
+    "option3": "Fungi",
+    "option4": "Yeast"
+  },
+  {
+    "question": "___________ hijacks a person's cellular machinery to produce clones of itself",
+    "option1": "Virus",
+    "option2": "Bacteria",
+    "option3": "Fungi",
+    "option4": "Yeast"
+  },
+  {
+    "question": "Which of the following is not a typical shape of virus",
+    "option1": "Trapezoid",
+    "option2": "Polyhedral",
+    "option3": "Spherical",
+    "option4": "Helical"
+  },
+  {
+    "question": "________ is commonly known as black bread mold",
+    "option1": "Rhizopus stolonifer",
+    "option2": "Rhizopus mucoraceae",
+    "option3": "Aspergillus niger",
+    "option4": "Candida albicans"
+  },
+  {
+    "question": "Which of the following is not an edible mushroom",
+    "option1": "Amanita mushrooms",
+    "option2": "Oyster mushrooms",
+    "option3": "Morel mushrooms",
+    "option4": "Portobello mushrooms"
+  },
+  {
+    "question": "The Greek word \"Eu\" means",
+    "option1": "well",
+    "option2": "large",
+    "option3": "round",
+    "option4": "embryo"
+  },
+  {
+    "question": "Which of the following is a eukaryotic cell?",
+    "option1": "protozoan",
+    "option2": "virus",
+    "option3": "bacteria",
+    "option4": "None of these"
+  },
+  {
+    "question": "Which of the following is not a eukaryotic cell?",
+    "option1": "bacteria",
+    "option2": "protozoan",
+    "option3": "fungi",
+    "option4": "animal"
+  },
+  {
+    "question": "Which of the following is not a characteristic of eukaryotic cell?",
+    "option1": "circular DNA",
+    "option2": "membrane enclosed nucleus",
+    "option3": "membrane bound organelles",
+    "option4": "cytoskeleton"
+  },
+  {
+    "question": "The cell wall is present in",
+    "option1": "only plant cells",
+    "option2": "only animal cells",
+    "option3": "plant and animal cells",
+    "option4": "protozoans"
+  },
+  {
+    "question": "The following is not a function of the cell wall",
+    "option1": "helps in water transport",
+    "option2": "provides shape to cell",
+    "option3": "cell to cell interaction",
+    "option4": "protection against injury"
+  },
+  {
+    "question": "Cell membrane is also called as",
+    "option1": "Plasma membrane",
+    "option2": "Plasmalemma",
+    "option3": "Cell wall",
+    "option4": "nuclear membrane"
+  },
+  {
+    "question": "Cell membrane is made up of",
+    "option1": "phospholipid bilayer",
+    "option2": "phospholipid trilayer",
+    "option3": "glycolipid layer",
+    "option4": "phospholipid layer"
+  },
+  {
+    "question": "___________ positions the organelles in a cell",
+    "option1": "Cytoskeleton",
+    "option2": "Cytoplasm",
+    "option3": "Cell membrane",
+    "option4": "Cell wall"
+  },
+  {
+    "question": "___________ is the center of nucleus",
+    "option1": "Nucleolus",
+    "option2": "Nucleoplasm",
+    "option3": "Nuclear membrane",
+    "option4": "Chromatin"
+  },
+  {
+    "question": "The function of ribosomes is",
+    "option1": "protein synthesis",
+    "option2": "chromatin synthesis",
+    "option3": "endoplasmic reticulum synthesis",
+    "option4": "enzyme synthesis"
+  },
+  {
+    "question": "Ribosome is attached to",
+    "option1": "Endoplasmic reticulum",
+    "option2": "golgi complex",
+    "option3": "mitochondria",
+    "option4": "lysosome"
+  },
+  {
+    "question": "The consistency of cytoplasm is",
+    "option1": "semisolid",
+    "option2": "solid",
+    "option3": "liquid",
+    "option4": "gaseous"
+  },
+  {
+    "question": "Which of the following is not a function of cytoskeleton?",
+    "option1": "Transport of ions",
+    "option2": "cell shape",
+    "option3": "cell movement",
+    "option4": "positions organelles"
+  },
+  {
+    "question": "In eukaryotic cells DNA is",
+    "option1": "linear",
+    "option2": "circular",
+    "option3": "irregular",
+    "option4": "flat"
+  },
+  {
+    "question": "The function of the nucleolus is to produce",
+    "option1": "ribosomes",
+    "option2": "proteins",
+    "option3": "enzymes",
+    "option4": "energy"
+  },
+  {
+    "question": "Ribosome is found attached to _________ and ________",
+    "option1": "nucleus, ER",
+    "option2": "ER, mitochondria",
+    "option3": "nucleus, mitochondria",
+    "option4": "nucleolus, mitochondria"
+  },
+  {
+    "question": "The function of ribosomes is",
+    "option1": "protein synthesis",
+    "option2": "enzyme synthesis",
+    "option3": "energy synthesis",
+    "option4": "DNA synthesis"
+  },
+  {
+    "question": "The synthesis of cholesterol is done by",
+    "option1": "smooth ER",
+    "option2": "rough ER",
+    "option3": "golgi complex",
+    "option4": "centromere"
+  },
+  {
+    "question": "The molecule that functions as energy for cells is",
+    "option1": "Adenosine Triphosphate",
+    "option2": "Adenosine Diphosphate",
+    "option3": "Adenosine Monophosphate",
+    "option4": "Adenosine Phosphate"
+  },
+  {
+    "question": "The matrix of the mitochondria in animal cells contains DNA and",
+    "option1": "ribosomes",
+    "option2": "vacuoles",
+    "option3": "centrioles",
+    "option4": "endoplasmic reticulum"
+  },
+  {
+    "question": "The Golgi complex releases",
+    "option1": "vesicles",
+    "option2": "ribosomes",
+    "option3": "vacuoles",
+    "option4": "centrioles"
+  },
+  {
+    "question": "__________ are called as suicide bags of the cells",
+    "option1": "lysosomes",
+    "option2": "centrioles",
+    "option3": "vacuoles",
+    "option4": "centromeres"
+  },
+  {
+    "question": "The cytoskeletal components are synthesized by ___________ in the animal cell",
+    "option1": "centromere",
+    "option2": "ribosomes",
+    "option3": "vacuoles",
+    "option4": "vesicles"
+  },
+  {
+    "question": "The membrane around the vacuole is called as",
+    "option1": "tonoplast",
+    "option2": "chloroplast",
+    "option3": "leucoplast",
+    "option4": "centroplast"
+  },
+  {
+    "question": "The shape of plant cells is",
+    "option1": "rectangular",
+    "option2": "circular",
+    "option3": "irregular",
+    "option4": "flat"
+  },
+  {
+    "question": "Which of the following is not a biomolecule?",
+    "option1": "Calcium sulphate",
+    "option2": "Carbohydrates",
+    "option3": "Lipids",
+    "option4": "Nucleic Acids"
+  },
+  {
+    "question": "Lipid is comprised of fatty acids and",
+    "option1": "Glycerol",
+    "option2": "Alcohol",
+    "option3": "Hydrocarbon",
+    "option4": "Butanol"
+  },
+  {
+    "question": "Palmitic acid is designated as",
+    "option1": "C16",
+    "option2": "C14",
+    "option3": "C18",
+    "option4": "C20"
+  },
+  {
+    "question": "Fatty acids with no double bonds are",
+    "option1": "Saturated",
+    "option2": "Unsaturated",
+    "option3": "Transaturated",
+    "option4": "Cisaturated"
+  },
+  {
+    "question": "Which of the following is not a type of lipids?",
+    "option1": "Saturated lipids",
+    "option2": "Simple lipids",
+    "option3": "Complex lipids",
+    "option4": "Derived lipids"
+  },
+  {
+    "question": "Which is a type of Derived lipids?",
+    "option1": "Steroids",
+    "option2": "Phospholipids",
+    "option3": "Glycolipids",
+    "option4": "Waxes"
+  },
+  {
+    "question": "Phospholipids contain fatty acids, glycerol and a",
+    "option1": "phosphate group",
+    "option2": "phosphorous atom",
+    "option3": "phosphoric acid",
+    "option4": "none of these"
+  },
+  {
+    "question": "Glycolipids contain fatty acids, glycerol and",
+    "option1": "carbohydrates",
+    "option2": "glucose",
+    "option3": "sucrose",
+    "option4": "fructose"
+  },
+  {
+    "question": "Terpenes are components of essential oils secreted by",
+    "option1": "plant cells",
+    "option2": "insects",
+    "option3": "animal cells",
+    "option4": "fungi"
+  },
+  {
+    "question": "The component of cell membrane is",
+    "option1": "phospholipid",
+    "option2": "glycolipid",
+    "option3": "sphingolipid",
+    "option4": "lipoproteins"
+  },
+  {
+    "question": "_______ is present in the myelin sheath of nerve fibres",
+    "option1": "sphingolipid",
+    "option2": "phospholipid",
+    "option3": "glycolipid",
+    "option4": "lipoproteins"
+  },
+  {
+    "question": "The general formula for carbohydrates is",
+    "option1": "Cn(H2O)n",
+    "option2": "Cn+1(H2O)n",
+    "option3": "Cn(H2nO)n",
+    "option4": "Cn+1(H2nO)n2"
+  },
+  {
+    "question": "Which of the following is not a type of complex carbohydrate?",
+    "option1": "monosaccharide",
+    "option2": "disaccharide",
+    "option3": "oligosaccharide",
+    "option4": "polysaccharide"
+  },
+  {
+    "question": "Based on _________, carbohydrates are classified into aldoses and ketoses",
+    "option1": "functional group",
+    "option2": "number of carbon atoms",
+    "option3": "double bonds",
+    "option4": "number of saccharides"
+  },
+  {
+    "question": "Ribose is an example for",
+    "option1": "pentose",
+    "option2": "hexose",
+    "option3": "triose",
+    "option4": "heptose"
+  },
+  {
+    "question": "Starch is a",
+    "option1": "polysaccharide",
+    "option2": "oligosaccharide",
+    "option3": "monosaccharide",
+    "option4": "disaccharide"
+  },
+  {
+    "question": "_____ sugar present in legumes etc causes flatulence",
+    "option1": "raffinose",
+    "option2": "starch",
+    "option3": "glycogen",
+    "option4": "cellulose"
+  },
+  {
+    "question": "There are ____ amino acids divided into ___ groups",
+    "option1": "20, 7",
+    "option2": "25, 7",
+    "option3": "20, 8",
+    "option4": "25, 8"
+  },
+  {
+    "question": "Amino acids are joined by",
+    "option1": "peptide bond",
+    "option2": "phosphodiester bond",
+    "option3": "hydroxyl bond",
+    "option4": "amine bond"
+  },
+  {
+    "question": "Which of the following is an acidic amino acid?",
+    "option1": "glutamine",
+    "option2": "glycine",
+    "option3": "alanine",
+    "option4": "leucine"
+  },
+  {
+    "question": "Pleated sheet and alpha helix are types of",
+    "option1": "secondary",
+    "option2": "primary",
+    "option3": "tertiary",
+    "option4": "quaternary"
+  },
+  {
+    "question": "In an alpha helix there exists ___ amino acids per turn",
+    "option1": 3.6,
+    "option2": 4,
+    "option3": 3.8,
+    "option4": 3
+  },
+  {
+    "question": "Beta pleated sheets are joined on their sides by _______ bonds",
+    "option1": "hydrogen bonds",
+    "option2": "hydroxyl bonds",
+    "option3": "amine bonds",
+    "option4": "peptide bonds"
+  },
+  {
+    "question": "__________ strengthens bones and skin",
+    "option1": "Collagen",
+    "option2": "Raffinose",
+    "option3": "actin",
+    "option4": "myosin"
+  },
+  {
+    "question": "Actin and myosin are the proteins involved in",
+    "option1": "muscle contraction",
+    "option2": "bone strengthening",
+    "option3": "blood circulation",
+    "option4": "immune development"
+  },
+  {
+    "question": "Antibodies are",
+    "option1": "proteins",
+    "option2": "fats",
+    "option3": "carbohydrates",
+    "option4": "lipids"
+  },
+  {
+    "question": "The process of synthesis of proteins from RNA is",
+    "option1": "translation",
+    "option2": "transcription",
+    "option3": "replication",
+    "option4": "transfusion"
+  },
+  {
+    "question": "In RNA, the nitrogenous base __________ is replaced by uracil",
+    "option1": "thymine",
+    "option2": "adenine",
+    "option3": "guanine",
+    "option4": "cytosine"
+  },
+  {
+    "question": "________ attached to the phosphate group is called nucleotide in case of nucleic acids",
+    "option1": "Nucleoside",
+    "option2": "Base",
+    "option3": "Sugar",
+    "option4": "Phosphodiester bond"
+  },
+  {
+    "question": "Adenine : Guanine :: Cytosine : ________ in DNA",
+    "option1": "Thymine",
+    "option2": "Uracil",
+    "option3": "Purine",
+    "option4": "Pyrimidine"
+  },
+  {
+    "question": "The strands of DNA run _______ to each other",
+    "option1": "anti-parallel",
+    "option2": "parallel",
+    "option3": "obtuse",
+    "option4": "horizontal"
+  },
+  {
+    "question": "The nitrogenous bases in DNA pair by",
+    "option1": "hydrogen bonds",
+    "option2": "phosphodiester bonds",
+    "option3": "peptide bonds",
+    "option4": "phosphotriester bonds"
+  },
+  {
+    "question": "________ carries the genetic information of DNA to be used for protein synthesis",
+    "option1": "messenger RNA",
+    "option2": "transfer RNA",
+    "option3": "ribosomal RNA",
+    "option4": "information RNA"
+  },
+  {
+    "question": "What is not produced during photosynthesis?",
+    "option1": "Carbon dioxide",
+    "option2": "Oxygen",
+    "option3": "Organic compounds",
+    "option4": "Glucose"
+  },
+  {
+    "question": "What is the source of energy for photosynthesis to take place?",
+    "option1": "Light",
+    "option2": "ATP",
+    "option3": "Water",
+    "option4": "Oxygen"
+  },
+  {
+    "question": "Calvin's cycle takes place in the",
+    "option1": "Stroma",
+    "option2": "Thylakoids",
+    "option3": "Grana",
+    "option4": "Chlorophyll"
+  },
+  {
+    "question": "Photosynthesis doesn't depend on",
+    "option1": "Chlorophyll content",
+    "option2": "Temperature",
+    "option3": "Light intensity",
+    "option4": "Carbon dioxide"
+  },
+  {
+    "question": "ATP is a ________ derivative",
+    "option1": "Nucleotide",
+    "option2": "Nucleoside",
+    "option3": "Protein",
+    "option4": "Lipid"
+  },
+  {
+    "question": "_________ of the ATP contains large amount of energy in the form of high energy electrons",
+    "option1": "Phosphate bonds",
+    "option2": "Sugar",
+    "option3": "Nitrogenous base",
+    "option4": "Nucleotide"
+  },
+  {
+    "question": "The process by which cell breaks down glucose to give ATP is",
+    "option1": "Respiration",
+    "option2": "Photosynthesis",
+    "option3": "Mitosis",
+    "option4": "Meiosis"
+  },
+  {
+    "question": "Electron transport occurs in ______ of mitochondria",
+    "option1": "Cristae",
+    "option2": "Matrix",
+    "option3": "Cytoplasm",
+    "option4": "Grana"
+  },
+  {
+    "question": "In aerobic respiration, one glucose molecule releases _____ molecules of ATP",
+    "option1": 38,
+    "option2": 2,
+    "option3": 22,
+    "option4": 18
+  },
+  {
+    "question": "In anaerobic respiration, one glucose releases _____ molecules of ATP",
+    "option1": 2,
+    "option2": 38,
+    "option3": 22,
+    "option4": 18
+  },
+  {
+    "question": "The function of DNA polymerase is",
+    "option1": "To join nucleotides to form new DNA strand",
+    "option2": "Break hydrogen bonds",
+    "option3": "Unwind DNA strand",
+    "option4": "Replicate DNA"
+  },
+  {
+    "question": "Glucose breaks down to form two pyruvate molecules in",
+    "option1": "Glycolysis",
+    "option2": "Krebs cycle",
+    "option3": "Electron transport chain",
+    "option4": "Photosynthesis"
+  },
+  {
+    "question": "In Krebs cycle pyruvate is broken down to give hydrogen and",
+    "option1": "Carbon dioxide",
+    "option2": "Oxygen",
+    "option3": "ATP",
+    "option4": "Energy"
+  },
+  {
+    "question": "DNA replication is forming multiple copies of",
+    "option1": "Chromosomes",
+    "option2": "RNA",
+    "option3": "Genetic material",
+    "option4": "Heredity"
+  },
+  {
+    "question": "Which of the following is not a step in mitosis?",
+    "option1": "Interphase",
+    "option2": "Prophase",
+    "option3": "Metaphase",
+    "option4": "Anaphase"
+  },
+  {
+    "question": "Cell grows and prepares for mitosis in",
+    "option1": "Interphase",
+    "option2": "Prophase",
+    "option3": "Metaphase",
+    "option4": "Anaphase"
+  },
+  {
+    "question": "After cell division the divided cells are referred to as _______ cells",
+    "option1": "Daughter cells",
+    "option2": "Son",
+    "option3": "Offspring",
+    "option4": "Product"
+  },
+  {
+    "question": "Chromatids are joined by ______ in prophase",
+    "option1": "Centromeres",
+    "option2": "Lysosomes",
+    "option3": "Microtubules",
+    "option4": "Cytoskeleton"
+  },
+  {
+    "question": "In cytokinesis",
+    "option1": "Two daughter cells are formed",
+    "option2": "Two chromosomes are formed",
+    "option3": "Chromatids divide",
+    "option4": "Spindle fibres are formed"
+  },
+  {
+    "question": "In photosynthesis raw materials are",
+    "option1": "Carbon dioxide and water",
+    "option2": "Oxygen and water",
+    "option3": "Hydrogen and water",
+    "option4": "Carbon dioxide and Oxygen"
+  },
+  {
+    "question": "Composites are",
+    "option1": "Two or more constituent materials",
+    "option2": "Materials with similar chemical properties",
+    "option3": "Materials with similar physical properties",
+    "option4": "Only one material with different shapes, colours"
+  },
+  {
+    "question": "This is not a beneficial aspect of composites",
+    "option1": "Heavy weight",
+    "option2": "Corrosion resistance",
+    "option3": "High durability",
+    "option4": "Design flexibility"
+  },
+  {
+    "question": "Composites are used",
+    "option1": "All the fields mentioned",
+    "option2": "Only in constructions",
+    "option3": "Only in medical applications",
+    "option4": "Only in transportation"
+  },
+  {
+    "question": "Composite materials are used in construction due to",
+    "option1": "Better than traditional building materials",
+    "option2": "Heavy weight",
+    "option3": "Different shapes available",
+    "option4": "Different colours available"
+  },
+  {
+    "question": "FRP composites are created using",
+    "option1": "Plastic Polymer Resin",
+    "option2": "Glass Polymer Resin",
+    "option3": "Ceramic Polymer Resin",
+    "option4": "Metal Polymer Resin"
+  },
+  {
+    "question": "FRP composites are created through the combination of a plastic polymer resin with strong",
+    "option1": "Fibers",
+    "option2": "Glass",
+    "option3": "Metal",
+    "option4": "Ceramic"
+  },
+  {
+    "question": "Bio-composites are fabricated by combining ______ in a matrix material.",
+    "option1": "Natural fibers",
+    "option2": "Natural rubber",
+    "option3": "Synthetic fibres",
+    "option4": "Synthetic rubber"
+  },
+  {
+    "question": "This is an example of a natural bio composite",
+    "option1": "Wood",
+    "option2": "Rubber",
+    "option3": "Cotton",
+    "option4": "Jute"
+  },
+  {
+    "question": "Natural fibers are abundant and have",
+    "option1": "Low harvesting costs",
+    "option2": "High harvesting costs",
+    "option3": "Low growth rate",
+    "option4": "High growth rate"
+  },
+  {
+    "question": "Synthetic fibers have",
+    "option1": "Recycling issues",
+    "option2": "Production issues",
+    "option3": "Transport issues",
+    "option4": "Raw material issues"
+  },
+  {
+    "question": "Synthetic fibers generate",
+    "option1": "Toxic byproducts",
+    "option2": "Non-toxic byproducts",
+    "option3": "No byproducts",
+    "option4": "Neutral byproducts"
+  },
+  {
+    "question": "Biocomposites are made using",
+    "option1": "Reinforcement and matrice",
+    "option2": "Reinforcement and filler",
+    "option3": "Matrice and thermosets",
+    "option4": "Matrice and polymers"
+  },
+  {
+    "question": "This is not a natural fiber",
+    "option1": "Isocyanate",
+    "option2": "Cotton",
+    "option3": "Hemp",
+    "option4": "Flax"
+  },
+  {
+    "question": "Hybrid biocomposites are derived by",
+    "option1": "Fibers and matrix blending",
+    "option2": "Only fiber blending",
+    "option3": "Only matrix blending",
+    "option4": "Only polymer blending"
+  },
+  {
+    "question": "This is not expected in case of biocomposites",
+    "option1": "Rottening",
+    "option2": "Light weight",
+    "option3": "Recyclability",
+    "option4": "Local production"
+  },
+  {
+    "question": "The termite mounds sometimes have a diameter of _____ metres",
+    "option1": "30",
+    "option2": "40",
+    "option3": "50",
+    "option4": "60"
+  },
+  {
+    "question": "The termites will not use this for mound construction",
+    "option1": "Wood",
+    "option2": "Soil",
+    "option3": "Saliva",
+    "option4": "Dung"
+  },
+  {
+    "question": "Although the termite mound appears solid, the structure is incredibly",
+    "option1": "Porous",
+    "option2": "Non porous",
+    "option3": "Wet",
+    "option4": "Hot"
+  },
+  {
+    "question": "The termite mounds are often occupied by",
+    "option1": "Snakes",
+    "option2": "Rats",
+    "option3": "Frogs",
+    "option4": "Bats"
+  },
+  {
+    "question": "Termites mound chimneys use sunlight to heat and cool the structure and ventilate",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon dioxide",
+    "option4": "Hydrogen"
+  },
+  {
+    "question": "Heat exchangers are devices designed to transfer heat between two or more",
+    "option1": "All of these",
+    "option2": "Vapors",
+    "option3": "Gases",
+    "option4": "Liquids"
+  },
+  {
+    "question": "The heat transferring process in heat exchangers occurs through which separator",
+    "option1": "Solid",
+    "option2": "Liquid",
+    "option3": "Gas",
+    "option4": "Vapour"
+  },
+  {
+    "question": "Which prevents the mixing of the fluids or direct fluid contact in heat exchangers",
+    "option1": "Solid separator",
+    "option2": "Liquid separator",
+    "option3": "Gas separator",
+    "option4": "Vapour separator"
+  },
+  {
+    "question": "In a heat exchanger, two fluids (hot and cold) flow in opposite directions. The type of fluid flow is",
+    "option1": "Counter current",
+    "option2": "Co-current",
+    "option3": "Cross current",
+    "option4": "Parallel current"
+  },
+  {
+    "question": "Heat exchangers prevent vehicle engines",
+    "option1": "Overheat",
+    "option2": "Overspeed",
+    "option3": "Overcharge",
+    "option4": "Overcool"
+  },
+  {
+    "question": "In large fish and aquatic mammals, core body temperature is maintained constant by",
+    "option1": "Counter current heat exchange",
+    "option2": "Concurrent heat exchange",
+    "option3": "Net current exchange",
+    "option4": "Anti current exchange"
+  },
+  {
+    "question": "The tuna fish has core body temperature as like",
+    "option1": "Mammals",
+    "option2": "Reptiles",
+    "option3": "Insects",
+    "option4": "Worms"
+  },
+  {
+    "question": "The tuna fish was often called as",
+    "option1": "Warm blooded fish",
+    "option2": "Cold blooded fish",
+    "option3": "Slow moving fish",
+    "option4": "Tiny fish"
+  },
+  {
+    "question": "Tuna fish while swims, higher amount of heat is generated in the core of the body due to",
+    "option1": "Muscle action",
+    "option2": "Nerve action",
+    "option3": "Backbone action",
+    "option4": "Blood vessel action"
+  },
+  {
+    "question": "The core body temperature of an animal may rise even up to _____ degree Celsius, while it is running?",
+    "option1": "42",
+    "option2": "82",
+    "option3": "62",
+    "option4": "72"
+  },
+  {
+    "question": "Who drew the first aircraft design art?",
+    "option1": "Leonardo da Vinci",
+    "option2": "Donatello",
+    "option3": "Michelangelo",
+    "option4": "Raphael"
+  },
+  {
+    "question": "The aircraft design art drawn during the 14th century was named as ________",
+    "option1": "Helical air screw",
+    "option2": "Elliptical air screw",
+    "option3": "Rounded air screw",
+    "option4": "Axial air screw"
+  },
+  {
+    "question": "The Wright brothers' first flight name is ________",
+    "option1": "Flyer 1",
+    "option2": "Trailer 1",
+    "option3": "Arial 1",
+    "option4": "Helical 1"
+  },
+  {
+    "question": "By observing the birds' flying mechanism, the Wright brothers were able to control their airplane by",
+    "option1": "Wing warping method",
+    "option2": "Wing wrapping method",
+    "option3": "Wing folding method",
+    "option4": "Wing stretching method"
+  },
+  {
+    "question": "The contour of bird wing design shows",
+    "option1": "Minimum resistance for wind",
+    "option2": "Maximum resistance for wind",
+    "option3": "No resistance for wind",
+    "option4": "Threshold resistance for wind"
+  },
+  {
+    "question": "The aspect ratio in the wing design is",
+    "option1": "Length to width",
+    "option2": "Width to length",
+    "option3": "Length to thickness",
+    "option4": "Width to thickness"
+  },
+  {
+    "question": "In the bird's wing the aspect ratio varies from",
+    "option1": "1.5–18",
+    "option2": "1.5–1.8",
+    "option3": "15–18",
+    "option4": "150–180"
+  },
+  {
+    "question": "As the aspect ratio increases in the wing design, the flight adaptability is",
+    "option1": "Better",
+    "option2": "Worse",
+    "option3": "No change",
+    "option4": "Cannot be determined"
+  },
+  {
+    "question": "When air moves over the wing, the air pressure above the wing",
+    "option1": "Decreases",
+    "option2": "Increases",
+    "option3": "Remains same",
+    "option4": "Cannot be determined"
+  },
+  {
+    "question": "When air moves over the wing, the air pressure below the wing",
+    "option1": "Increases",
+    "option2": "Decreases",
+    "option3": "Remains same",
+    "option4": "Cannot be determined"
+  },
+  {
+    "question": "The blades at the hind edge of the wings of an airplane are withdrawn while on",
+    "option1": "Gliding",
+    "option2": "Landing",
+    "option3": "Take off",
+    "option4": "On runway"
+  },
+  {
+    "question": "In the airplane, wing blades at the hind edge are extended and thrusted downward while",
+    "option1": "Landing",
+    "option2": "Take off",
+    "option3": "Gliding",
+    "option4": "On runway"
+  },
+  {
+    "question": "A bird can change its wing shape by the help of",
+    "option1": "Feathers",
+    "option2": "Legs",
+    "option3": "Knees",
+    "option4": "Beaks"
+  },
+  {
+    "question": "The inventor of the modern helicopter",
+    "option1": "Igor Sikorsky",
+    "option2": "Louis-Charles",
+    "option3": "Jacques Breguet",
+    "option4": "Wright brothers"
+  },
+  {
+    "question": "The helicopter analogy is with this living creature",
+    "option1": "Dragonfly",
+    "option2": "Butterfly",
+    "option3": "Honey bee",
+    "option4": "Birds"
+  },
+  {
+    "question": "How many sets of wings does the dragonfly consist of?",
+    "option1": "Two",
+    "option2": "Three",
+    "option3": "Four",
+    "option4": "One"
+  },
+  {
+    "question": "Which part serves to stabilize the helicopter during its flight?",
+    "option1": "Tail rotor",
+    "option2": "Rotor mast",
+    "option3": "Rotor blades",
+    "option4": "Tail boom"
+  },
+  {
+    "question": "Helicopter changes course by altering angle of attack by the help of",
+    "option1": "Mechanical levers",
+    "option2": "Electrical cables",
+    "option3": "Landing skids",
+    "option4": "Cockpits"
+  },
+  {
+    "question": "During generation of Bernoulli lift, the air moves _____ over the top of the wing compared to the bottom",
+    "option1": "Faster",
+    "option2": "Slower",
+    "option3": "In the opposite direction",
+    "option4": "In the same speed"
+  },
+  {
+    "question": "The high lift devices and control surfaces of airplane perform similar functions to which organ of birds?",
+    "option1": "Wings",
+    "option2": "Legs",
+    "option3": "Neck",
+    "option4": "Bill"
+  },
+  {
+    "question": "When dragonflies move forward, what provides them the propulsion?",
+    "option1": "Rear wings",
+    "option2": "Front wings",
+    "option3": "Tail",
+    "option4": "Legs"
+  },
+  {
+    "question": "When the dragonfly moves forward, the front set of wings gives the dragonfly",
+    "option1": "Lift",
+    "option2": "Propulsion",
+    "option3": "Pressure",
+    "option4": "Rotation"
+  },
+  {
+    "question": "Absence of what causes the helicopter to rotate about its own axis",
+    "option1": "Tail rotor",
+    "option2": "Rotor blades",
+    "option3": "Wing sections",
+    "option4": "Mechanical levers"
+  },
+  {
+    "question": "The dragonfly wings and the helicopter blades are designed in such a way that",
+    "option1": "Air flows faster through the upper region of the wings",
+    "option2": "Air flows slower through the upper region of the wings",
+    "option3": "Air flows faster through the lower region of the wings",
+    "option4": "Air flows slower through the lower region of the wings"
+  },
+  {
+    "question": "Dragonfly adjusts the angle of attack on its wings by",
+    "option1": "Transitioning its muscle to beat its wings in slightly different patterns",
+    "option2": "By rotating about its own axis",
+    "option3": "Fluttering the wings whilst flight",
+    "option4": "By changing its mass"
+  },
+  {
+    "question": "Blades of helicopter are made up of composite materials to prevent",
+    "option1": "Cracking of blades under stress",
+    "option2": "Altering of angle of attack",
+    "option3": "Lift and propulsion",
+    "option4": "Upward suction effect"
+  },
+  {
+    "question": "The air flow below the rotor blades is slower resulting in high pressure so total effect is that the helicopter is",
+    "option1": "Pushed upwards",
+    "option2": "Pushed downwards",
+    "option3": "Pulled upwards",
+    "option4": "Pulled downwards"
+  },
+  {
+    "question": "The civilian submarines are used for marine and freshwater research projects which is called as",
+    "option1": "Oceanography",
+    "option2": "Windography",
+    "option3": "Hydrography",
+    "option4": "Marinography"
+  },
+  {
+    "question": "The whale body contour almost resembles a",
+    "option1": "Submarine",
+    "option2": "Airplane",
+    "option3": "Helicopter",
+    "option4": "Cruise ship"
+  },
+  {
+    "question": "The major similarity between whale body and submarine is ________.",
+    "option1": "Shape of body",
+    "option2": "Colour",
+    "option3": "Capacity",
+    "option4": "Speed"
+  },
+  {
+    "question": "Who proposed the information theory in communication industry?",
+    "option1": "Shannon",
+    "option2": "Feynman",
+    "option3": "Adleman",
+    "option4": "Watson"
+  },
+  {
+    "question": "DNA backbone, outside the double helix, is made up of",
+    "option1": "Phosphate and sugar",
+    "option2": "Sugar and nitrogen",
+    "option3": "Nitrogen and carbon",
+    "option4": "Phosphate and nitrogen"
+  },
+  {
+    "question": "Which of the following statement is true related to DNA",
+    "option1": "The two DNA strands are anti-parallel and complementary",
+    "option2": "The two DNA strands are parallel and complementary",
+    "option3": "The two DNA strands are parallel and non-complementary",
+    "option4": "The two DNA strands are anti-parallel and non-complementary"
+  },
+  {
+    "question": "This is the purine nitrogenous base of DNA",
+    "option1": "Guanine",
+    "option2": "Thymine",
+    "option3": "Cytosine",
+    "option4": "Uracil"
+  },
+  {
+    "question": "This is not the pyrimidine nitrogenous base",
+    "option1": "Adenine",
+    "option2": "Uracil",
+    "option3": "Cytosine",
+    "option4": "Thymine"
+  },
+  {
+    "question": "The idea that individual molecules could be used for computation was proposed by",
+    "option1": "Feynman",
+    "option2": "Shannon",
+    "option3": "Adleman",
+    "option4": "Watson"
+  },
+  {
+    "question": "The concept of DNA computing was introduced by",
+    "option1": "Adleman",
+    "option2": "Shannon",
+    "option3": "Feynman",
+    "option4": "Watson"
+  },
+  {
+    "question": "Dr. Adleman has written an article on solving HDP problem. Here HDP stands for",
+    "option1": "Hamiltonian Directed Path Problem",
+    "option2": "Highly Directed Path Problem",
+    "option3": "Halwart Directional Path Problem",
+    "option4": "Holts Directional Path Problem"
+  },
+  {
+    "question": "Adleman put his theory of DNA computing to the test on a problem called the",
+    "option1": "Travelling Salesman Problem (TSP)",
+    "option2": "Tool Salesman Problem (TSP)",
+    "option3": "Ribo Computing Problem (RCP)",
+    "option4": "Machine Executing Problem (MEP)"
+  },
+  {
+    "question": "Which is the limitation of DNA computing?",
+    "option1": "Time consuming laboratory procedures",
+    "option2": "Extremely dense information storage",
+    "option3": "Enormous parallel computing possibilities",
+    "option4": "Extraordinary energy efficiency"
+  },
+  {
+    "question": "The science of using computational tools and systems to answer problems of biology is",
+    "option1": "Bioinformatics",
+    "option2": "Synthetic Biology",
+    "option3": "Computational Biology",
+    "option4": "Evolutionary Biology"
+  },
+  {
+    "question": "Developing theories, algorithms, and statistical models to analyze biological data is",
+    "option1": "Computational Biology",
+    "option2": "Synthetic Biology",
+    "option3": "Bioinformatics",
+    "option4": "Evolutionary Biology"
+  },
+  {
+    "question": "Disadvantage of DNA strands for computing is",
+    "option1": "DNA is organic and decays. Experimentation thus must not be time-consuming.",
+    "option2": "The two strands are complementary, hence unique.",
+    "option3": "The four base pairs AGCT with triplet codes store enormous information.",
+    "option4": "Complementary strands give low scope for error."
+  },
+  {
+    "question": "This is not the hidden factor affecting complexity of DNA computers",
+    "option1": "Complementarities of DNA make it unique for error corrections",
+    "option2": "Arbitrary number of test tubes to be used for experiments",
+    "option3": "Unrealistic assessment of how reactant concentrations scale with problem size",
+    "option4": "DNA in vitro (in the lab) decays"
+  },
+  {
+    "question": "The powerful computing power of DNA computers can be used in future for",
+    "option1": "All of these",
+    "option2": "Genetic programming",
+    "option3": "Language systems",
+    "option4": "Data encryption"
+  },
+  {
+    "question": "What is SONAR?",
+    "option1": "Sound Navigation And Ranging",
+    "option2": "Solar Navigation And Response",
+    "option3": "Sound Navigation And Response",
+    "option4": "Solar Navigation And Ranging"
+  },
+  {
+    "question": "Which among the following is widely used in submarine applications",
+    "option1": "SONAR",
+    "option2": "RADAR",
+    "option3": "LIDAR",
+    "option4": "Electromagnetic waves"
+  },
+  {
+    "question": "Which creatures use sound waves to locate objects",
+    "option1": "Bats",
+    "option2": "Butterflies",
+    "option3": "Dragonflies",
+    "option4": "Eagles"
+  },
+  {
+    "question": "Bats sense their direction through",
+    "option1": "Echolocation",
+    "option2": "Sense of sight",
+    "option3": "Wings",
+    "option4": "Nose"
+  },
+  {
+    "question": "Along with the position information, bats can also discriminate objects based on",
+    "option1": "All of these",
+    "option2": "Shape",
+    "option3": "Size",
+    "option4": "Texture"
+  },
+  {
+    "question": "A pacemaker system consists of",
+    "option1": "Pulse generator, leads",
+    "option2": "Expansion generator, leads",
+    "option3": "Atrium blocker, leads",
+    "option4": "Ventricle blocker, leads"
+  },
+  {
+    "question": "The name given to the condition in which the electrical impulses may be blocked along the pathway through the heart is",
+    "option1": "Heart block",
+    "option2": "Heart attack",
+    "option3": "Heart impulse",
+    "option4": "Heart clog"
+  },
+  {
+    "question": "A single-chamber pacemaker paces",
+    "option1": "Right/left atrium or right/left ventricle",
+    "option2": "Left atrium only",
+    "option3": "Right atrium only",
+    "option4": "Right ventricle only"
+  },
+  {
+    "question": "The weight/mass of the pacemaker is about",
+    "option1": "22 - 50 gms",
+    "option2": "2.2 - 5 gms",
+    "option3": "220 - 500 gms",
+    "option4": "0.22 - 0.5 gms"
+  },
+  {
+    "question": "The dual-chamber pacemaker senses",
+    "option1": "Both atrial and ventricular activity",
+    "option2": "Only right atrial activity",
+    "option3": "Only left ventricular activity",
+    "option4": "Only right ventricle activity"
+  },
+  {
+    "question": "The biventricular-chamber pacemaker paces",
+    "option1": "Right/left atrium and both right/left ventricle",
+    "option2": "Left atrium only",
+    "option3": "Right ventricle only",
+    "option4": "Left ventricle only"
+  },
+  {
+    "question": "In which type of pacemaker does the patient's body serve as the grounding source",
+    "option1": "Unipolar",
+    "option2": "Bipolar",
+    "option3": "Multipolar",
+    "option4": "Non-polar"
+  },
+  {
+    "question": "In which type of pacemaker is there less chance for electromagnetic interference",
+    "option1": "Bipolar",
+    "option2": "Unipolar",
+    "option3": "Multipolar",
+    "option4": "Non-polar"
+  },
+  {
+    "question": "The insulated wire that carries the stimulus from a pulse generator to the heart in an artificial pacemaker is called",
+    "option1": "Lead",
+    "option2": "Pacer",
+    "option3": "Generator",
+    "option4": "Pulsar"
+  },
+  {
+    "question": "Leads in an artificial pacemaker are wires threaded through ________ and attached to the heart muscles carrying impulses",
+    "option1": "Veins",
+    "option2": "Arteries",
+    "option3": "Aorta",
+    "option4": "Vena cava"
+  },
+  {
+    "question": "The bionic eye provokes visual sensations in the brain by directly stimulating different parts of",
+    "option1": "Optic nerve",
+    "option2": "Cornea",
+    "option3": "Eyelid",
+    "option4": "Eye lens"
+  },
+  {
+    "question": "Age-related loss of central vision and blurred peripheral vision is called",
+    "option1": "Macular degeneration",
+    "option2": "Glaucoma",
+    "option3": "Retinopathy",
+    "option4": "Cataract"
+  },
+  {
+    "question": "The genetic eye disease where loss of peripheral vision occurs",
+    "option1": "Retinitis Pigmentosa",
+    "option2": "Glaucoma",
+    "option3": "Retinopathy",
+    "option4": "Macular degeneration"
+  },
+  {
+    "question": "The two medical conditions of the eye that the bionic eye aims to address are",
+    "option1": "Macular degeneration and Retinitis Pigmentosa",
+    "option2": "Retinitis Pigmentosa and Retinopathy",
+    "option3": "Glaucoma and Cataract",
+    "option4": "Macular degeneration and Retinopathy"
+  },
+  {
+    "question": "Cochlear implant captures sound and turns it into digital code with the help of",
+    "option1": "Sound processor",
+    "option2": "Stimulator",
+    "option3": "Transmitter",
+    "option4": "Microphone"
+  },
+  {
+    "question": "The cochlear technology is to help people who",
+    "option1": "All of these",
+    "option2": "Have moderate hearing loss in both ears",
+    "option3": "Have little or no benefit from hearing aid",
+    "option4": "Have 50% or less sentence recognition test score"
+  },
+  {
+    "question": "This is worn behind the ear or on the body, captures sound and turns it into digital code",
+    "option1": "Sound processor",
+    "option2": "Battery",
+    "option3": "Transmitting coil",
+    "option4": "Electrode array"
+  },
+  {
+    "question": "Choose the correct answer for which the benefit of a cochlear implant for a hearing-impaired person is not true",
+    "option1": "Cannot focus better when in noisy environment",
+    "option2": "Feel safer",
+    "option3": "Reconnect with missed sounds",
+    "option4": "Hear well"
+  },
+  {
+    "question": "Since 1972 more than ________ different cochlear implants have been done.",
+    "option1": "16",
+    "option2": "17",
+    "option3": "18",
+    "option4": "19"
+  },
+  {
+    "question": "The hearing aids in the ear",
+    "option1": "Make sound louder",
+    "option2": "Make sound smoother",
+    "option3": "Make sound silent",
+    "option4": "Make sound noiseless"
+  },
+  {
+    "question": "Name of the first biodegradable leather is",
+    "option1": "Desserto",
+    "option2": "Adriano Di Marti",
+    "option3": "Bionic",
+    "option4": "Exhale"
+  },
+  {
+    "question": "The first biodegradable leather was developed in",
+    "option1": "Mexico",
+    "option2": "USA",
+    "option3": "Canada",
+    "option4": "Brazil"
+  },
+  {
+    "question": "The company which patented and manufacturing first biodegradable leather",
+    "option1": "Adriano Di Marti",
+    "option2": "Desserto",
+    "option3": "Lakhaani - Arman",
+    "option4": "Prickly pear"
+  },
+  {
+    "question": "The cactus from which leather is manufactured is also known as",
+    "option1": "Prickly pear",
+    "option2": "Breathing Leaf",
+    "option3": "Arborea",
+    "option4": "Indian Cactus"
+  },
+  {
+    "question": "What motivated the inventors to design the biodegradable leather?",
+    "option1": "Environmental Pollution",
+    "option2": "Large land requirement for leather industry",
+    "option3": "Surplus production of Cactus",
+    "option4": "Lot of arable land available"
+  },
+  {
+    "question": "Whether biodegradable leather be used in fabric manufacturing?",
+    "option1": "Yes, without any modification",
+    "option2": "Yes, but chemical treatment is necessary",
+    "option3": "Only limited fabrics can be designed",
+    "option4": "No, it cannot be used"
+  },
+  {
+    "question": "The carbon sequestering capacity of Cactus used for leather: Absorbs about 8000 tons per year of CO2, whereas it produces CO2 at the rate of:",
+    "option1": "15 tons per year",
+    "option2": "5000 tons per year",
+    "option3": "8000 tons per year",
+    "option4": "15300 tons per year"
+  },
+  {
+    "question": "To produce 1 linear metre of biodegradable leather, how many fully grown cactus leaves are required?",
+    "option1": 3,
+    "option2": 1,
+    "option3": 30,
+    "option4": 10
+  },
+  {
+    "question": "To manufacture leather from Cactus, full Cactus plant need to be harvested",
+    "option1": "No, only fully grown leaves are removed leaving the plant intact with young leaves",
+    "option2": "No, all the leaves are removed but plant without leaves is left",
+    "option3": "Yes, full plant is removed but the small cutting from old plant is cultivated again",
+    "option4": "Yes, plant is completely harvested and new plants are cultivated again each year"
+  },
+  {
+    "question": "Which of these is TRUE for the biodegradable leather?",
+    "option1": "There is no water pollution with chromium salts",
+    "option2": "Consumes lot of water for processing",
+    "option3": "Consumes lot of energy for drying of cactus powder",
+    "option4": "Emits more carbon to environment"
+  },
+  {
+    "question": "The life cycle analysis of different types of leather manufacturing indicates",
+    "option1": "Biodegradable leather is more sustainable",
+    "option2": "Animal leather requires lesser energy and more efficient",
+    "option3": "PU leather is more sturdy and better than all other leathers",
+    "option4": "Leather types cannot be compared using LCA"
+  },
+  {
+    "question": "GHG Carbon emission in which of the following manufacturing process is lowest?",
+    "option1": "Desserto Leather",
+    "option2": "PU Leather",
+    "option3": "Animal Leather",
+    "option4": "Artificial Leather"
+  },
+  {
+    "question": "What is the name of bionic chandelier designed by Julian Melchiorri?",
+    "option1": "Exhale",
+    "option2": "Inhale",
+    "option3": "Arborea",
+    "option4": "Breathing leaf"
+  },
+  {
+    "question": "What does the bionic chandelier do?",
+    "option1": "Purifies the indoor air by producing oxygen",
+    "option2": "Produces natural glowing light",
+    "option3": "Decreases moisture content of air",
+    "option4": "Decreases intensity of light"
+  },
+  {
+    "question": "In the bionic chandelier designed by Julian, how many leaves are there?",
+    "option1": 70,
+    "option2": "numerous",
+    "option3": 3,
+    "option4": 24
+  },
+  {
+    "question": "What does the bionic chandelier contain?",
+    "option1": "Photosynthetic algae",
+    "option2": "Artificial air purifier",
+    "option3": "Light emitting flourospores",
+    "option4": "Metallic structure with green shades"
+  },
+  {
+    "question": "Why the bionic chandelier is connected to a life support device?",
+    "option1": "To provide nutrient to algae",
+    "option2": "To remove odor captured by air purifier",
+    "option3": "To replenish concentration of flourospores",
+    "option4": "There is no such unit attached"
+  },
+  {
+    "question": "Bionic chandelier establishes which new type of symbiotic relationship between",
+    "option1": "Object and Human",
+    "option2": "Object and Environment",
+    "option3": "Algae and Light",
+    "option4": "Human and Environment"
+  },
+  {
+    "question": "Which byproduct of the oil refinery is used for making of roads?",
+    "option1": "Bitumen",
+    "option2": "Asphalt",
+    "option3": "Coal",
+    "option4": "Kerosene"
+  },
+  {
+    "question": "Bitumen in the asphalt act as a",
+    "option1": "Binder material",
+    "option2": "Base material",
+    "option3": "Coloring material",
+    "option4": "Bitumen is not a part of asphalt"
+  },
+  {
+    "question": "Identify the correct order of waste plastic processing before it is used in road construction along with asphalt",
+    "option1": "Clean - Dry - Shred - Melt",
+    "option2": "Dry - Shred - Clean - Melt",
+    "option3": "Clean - Melt - Dry - Shred",
+    "option4": "Melt - Dry - Clean - Shred"
+  },
+  {
+    "question": "Which of these is the natural alternative to Bitumen as per current findings?",
+    "option1": "Lignin",
+    "option2": "Cactus powder",
+    "option3": "PET or PP or HDPE",
+    "option4": "Binder enzymes"
+  },
+  {
+    "question": "Which process is currently demonstrated to use Lignin as binding agent in road construction?",
+    "option1": "Pyrolysis",
+    "option2": "Photosynthesis",
+    "option3": "Metabolism",
+    "option4": "Hydrolysis"
+  },
+  {
+    "question": "Whether natural lignin is currently demonstrated as a complete replacement for Bitumen?",
+    "option1": "No, 50-50 mix of Lignin and Bitumen is demonstrated",
+    "option2": "Yes, 100% replacement has been demonstrated",
+    "option3": "No, about 10% of Bitumen can be replaced",
+    "option4": "No, lignin is not a suitable alternative"
+  },
+  {
+    "question": "The Solar powered pest control system was developed at",
+    "option1": "IIT Kharagpur",
+    "option2": "IIT Kanpur",
+    "option3": "IIT Madras",
+    "option4": "Thyagarajar College of Engg"
+  },
+  {
+    "question": "In solar powered pest control system, what device is used to pressurize the liquid to be dispersed?",
+    "option1": "DC Motor",
+    "option2": "AC Motor",
+    "option3": "Solar Panel",
+    "option4": "Nozzles"
+  },
+  {
+    "question": "How larger width of spray area is achieved in solar powered pest control system?",
+    "option1": "Use of multiple nozzles on boom",
+    "option2": "Use of multiple DC motors",
+    "option3": "Use of large solar panels",
+    "option4": "Use of low viscosity pesticides"
+  },
+  {
+    "question": "The administrator of solar pest control unit is required to",
+    "option1": "Monitor the spray module movement",
+    "option2": "Carry the pesticide backpack",
+    "option3": "Spray the pesticide using nozzle module",
+    "option4": "Need not be present at the field"
+  },
+  {
+    "question": "Development of indigenous solar pest control system comes under which type of Govt of India initiative?",
+    "option1": "Atmanirbhar Bharat Abhiyan",
+    "option2": "Skill India",
+    "option3": "Pradhan Mantri Jan Dhan Yojana",
+    "option4": "Stand Up India Scheme"
+  },
+  {
+    "question": "Novel BioDCM nanoparticle based pesticide can protect agricultural crops from the infection of",
+    "option1": "Both bacterial & fungal",
+    "option2": "Bacterial only",
+    "option3": "Fungal only",
+    "option4": "None"
+  },
+  {
+    "question": "The major or leading institutes that developed BioDCM nanoparticles based pesticide",
+    "option1": "IIT Kanpur",
+    "option2": "IIT Kharagpur",
+    "option3": "IIT Madras",
+    "option4": "IIT Bombay"
+  },
+  {
+    "question": "The full form of the pesticide BioDCM",
+    "option1": "Bio-Degradable Carbonoid-Metabolite",
+    "option2": "Bio-Degradable Carbon-Metal complex",
+    "option3": "Biologically Designed Commercial Metabolite",
+    "option4": "Biologically Designed Chemical Molecule"
+  },
+  {
+    "question": "The pesticide BioDCM is extracted from",
+    "option1": "Trichoderma asperellum",
+    "option2": "Xanthomonas oryzae",
+    "option3": "Bacillus anthracis",
+    "option4": "Arabidopsis thaliana"
+  },
+  {
+    "question": "The pesticide BioDCM is extracted from which of these?",
+    "option1": "Fungal strain",
+    "option2": "Bacterial strain",
+    "option3": "Virus",
+    "option4": "Chemically synthesized"
+  },
+  {
+    "question": "Trichoderma asperellum is a",
+    "option1": "Common soil fungus",
+    "option2": "Common soil bacterium",
+    "option3": "Viral agent",
+    "option4": "Crop variety"
+  },
+  {
+    "question": "If you need to measure water potential in crop leaves using their turgor pressure, which sensors are more useful?",
+    "option1": "Mechanical sensors",
+    "option2": "Acoustic sensors",
+    "option3": "Optical sensors",
+    "option4": "Chemical sensors"
+  },
+  {
+    "question": "If you require geometric structure of plant which sensor is more useful?",
+    "option1": "Acoustic sensors",
+    "option2": "Mechanical sensors",
+    "option3": "Optical sensors",
+    "option4": "Chemical sensors"
+  },
+  {
+    "question": "Which of these sensors use their own light for measurement?",
+    "option1": "Active optical sensor",
+    "option2": "Passive optical sensor",
+    "option3": "Acoustic sensors",
+    "option4": "Mechanical sensors"
+  },
+  {
+    "question": "Which of these sensors are useful to measure nitrogen content in crops?",
+    "option1": "Optical sensors",
+    "option2": "Chemical sensors",
+    "option3": "Mechanical sensors",
+    "option4": "Acoustic sensors"
+  },
+  {
+    "question": "A device that provides real-time glucose readings and data about trends in glucose levels",
+    "option1": "Continuous Glucose Monitor",
+    "option2": "Canadian Glucose Machine",
+    "option3": "Glucometer",
+    "option4": "Diabetescare"
+  },
+  {
+    "question": "Why one should use GSM",
+    "option1": "To Monitor Blood Glucose level",
+    "option2": "To monitor Genetic Syndrome",
+    "option3": "To inject Insulin",
+    "option4": "To assess blood cholesterol level"
+  },
+  {
+    "question": "Sensor life of Freestyle Navigator is",
+    "option1": "5 days",
+    "option2": "6 days",
+    "option3": "10 days",
+    "option4": "8 days"
+  },
+  {
+    "question": "DexCom 7 Plus needs caliberation",
+    "option1": "every 12 hours",
+    "option2": "every 12 days",
+    "option3": "every 15 days",
+    "option4": "every 15 hours"
+  },
+  {
+    "question": "In 1985 a ROBOT, the PUMA 560, was used to place a needle for a ________ biopsy using CT guidance for",
+    "option1": "Brain",
+    "option2": "Heart",
+    "option3": "Lung",
+    "option4": "Skin"
+  },
+  {
+    "question": "Robots were first introduced in ______ with the first laparoscopic surgery",
+    "option1": 1987,
+    "option2": 1897,
+    "option3": 1988,
+    "option4": 2001
+  },
+  {
+    "question": "Robotic surgery means",
+    "option1": "Microsurgery in which the surgeon performs surgery by manipulating the hands of a robot",
+    "option2": "Surgery done by Robot with programmed software",
+    "option3": "Microsurgery done remotely without any physical presence",
+    "option4": "Surgery done for Robots in micro level"
+  },
+  {
+    "question": "Retractor system present in ________ type of Robot",
+    "option1": "Passive",
+    "option2": "Active",
+    "option3": "Both Passive and Active",
+    "option4": "Manual"
+  },
+  {
+    "question": "One of the following is name of a Robot used in Medical Technology",
+    "option1": "PUMA 560",
+    "option2": "ROMA 560",
+    "option3": "DOLLY 650",
+    "option4": "ROBO 110"
+  },
+  {
+    "question": "DexCom 7 Plus is a",
+    "option1": "CGM available in the Market",
+    "option2": "Robot used in Brain surgery",
+    "option3": "Monitoring system for heart beat",
+    "option4": "Computer software for Medical technology"
+  }
+]
