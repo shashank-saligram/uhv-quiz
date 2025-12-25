@@ -67,7 +67,7 @@
     "option1": "1 to 100 nm",
     "option2": "1 to 100 mm",
     "option3": "1 to 1000 nm",
-    "option4": "1 to 10 �m"
+    "option4": "1 to 10 µm"
   },
   {
     "question": "The tensile strength of carbon nanotubes is approximately ___________ times greater than that of steel of the same diameter",
@@ -127,10 +127,10 @@
   },
   {
     "question": "Prokaryotic cell size ranges from ____________ in diameter",
-    "option1": "0.1 to 5.0 �m",
-    "option2": "0.1 to 50 �m",
-    "option3": "10 to 50 �m",
-    "option4": "2 to 10 �m"
+    "option1": "0.1 to 5.0 µm",
+    "option2": "0.1 to 50 µm",
+    "option3": "10 to 50 µm",
+    "option4": "2 to 10 µm"
   },
   {
     "question": "_____________ do not have a true nucleus and membrane-bound organelles",
@@ -287,7 +287,7 @@
     "option4": "Portobello mushrooms"
   },
   {
-    "question": "The Greek word \"Eu\" means",
+    "question": "The Greek word 'Eu' means",
     "option1": "well",
     "option2": "large",
     "option3": "round",
@@ -434,7 +434,7 @@
     "option4": "endoplasmic reticulum"
   },
   {
-    "question": "The Golgi complex releases",
+    "question": "The Golgi complex releases ________ for package and transport of proteins",
     "option1": "vesicles",
     "option2": "ribosomes",
     "option3": "vacuoles",
@@ -442,7 +442,7 @@
   },
   {
     "question": "__________ are called as suicide bags of the cells",
-    "option1": "lysosomes",
+    "option1": "lysozomes",
     "option2": "centrioles",
     "option3": "vacuoles",
     "option4": "centromeres"
@@ -483,7 +483,7 @@
     "option4": "Butanol"
   },
   {
-    "question": "Palmitic acid is designated as",
+    "question": "Palmatic acid is designated as",
     "option1": "C16",
     "option2": "C14",
     "option3": "C18",
@@ -511,21 +511,21 @@
     "option4": "Waxes"
   },
   {
-    "question": "Phospholipids contain fatty acids, glycerol and a",
+    "question": "Phospholipids contain fatty acids, glycerol and a ________",
     "option1": "phosphate group",
     "option2": "phosphorous atom",
     "option3": "phosphoric acid",
     "option4": "none of these"
   },
   {
-    "question": "Glycolipids contain fatty acids, glycerol and",
+    "question": "Glycolipids contain fatty acids, glycerol and ________",
     "option1": "carbohydrates",
     "option2": "glucose",
     "option3": "sucrose",
     "option4": "fructose"
   },
   {
-    "question": "Terpenes are components of essential oils secreted by",
+    "question": "Terpenes are components of essential oils secreted by _______",
     "option1": "plant cells",
     "option2": "insects",
     "option3": "animal cells",
@@ -595,7 +595,7 @@
     "option4": "25, 8"
   },
   {
-    "question": "Amino acids are joined by",
+    "question": "Amino acids are joined by _______ bonds",
     "option1": "peptide bond",
     "option2": "phosphodiester bond",
     "option3": "hydroxyl bond",
@@ -609,7 +609,7 @@
     "option4": "leucine"
   },
   {
-    "question": "Pleated sheet and alpha helix are types of",
+    "question": "Pleated sheet and alpha helix are types of ________ structures of proteins",
     "option1": "secondary",
     "option2": "primary",
     "option3": "tertiary",
@@ -805,7 +805,7 @@
     "option4": "Anaphase"
   },
   {
-    "question": "Cell grows and prepares for mitosis in",
+    "question": "Cell grows and prepares for mitosis in _________ step",
     "option1": "Interphase",
     "option2": "Prophase",
     "option3": "Metaphase",
@@ -1071,7 +1071,7 @@
     "option4": "Helical 1"
   },
   {
-    "question": "By observing the birds' flying mechanism, the Wright brothers were able to control their airplane by",
+    "question": "By observing the birds flying mechanism, the Wright brothers were able to control their airplane by",
     "option1": "Wing warping method",
     "option2": "Wing wrapping method",
     "option3": "Wing folding method",
