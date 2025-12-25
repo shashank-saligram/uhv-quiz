@@ -223,7 +223,7 @@ function formatTime(sec) {
 function prepareQuiz() {
   userAnswers = {};
   currentQuestion = 0;
-  quizData = shuffleArray(allQuestions).slice(0, 40).map(q => {
+  quizData = shuffleArray(allQuestions).slice(0, 100).map(q => {
     const opts = shuffleArray(q.options.slice());
     return { question: q.question, options: opts, answerText: q.correctText };
   });
@@ -385,3 +385,4 @@ fetch('questions.json')
 </script>
 </body>
 </html>
+
