@@ -1,0 +1,2634 @@
+[
+  {
+    "question": "Which of the following is not an abiotic component of an ecosystem",
+    "option1": "Bacteria",
+    "option2": "Water",
+    "option3": "Temperature",
+    "option4": "Soil"
+  },
+  {
+    "question": "In the 10% law of energy flow, if plants capture 10,000 kcal of energy, how much will be available to herbivores?",
+    "option1": "1000 kcal",
+    "option2": "10 kcal",
+    "option3": "1,000 kcal",
+    "option4": "5,000 kcal"
+  },
+  {
+    "question": "Which of the following is a biotic component of an ecosystem?",
+    "option1": "Fungi",
+    "option2": "Light",
+    "option3": "Temperature",
+    "option4": "Water"
+  },
+  {
+    "question": "The primary source of energy driving ecological cycles is:",
+    "option1": "Solar radiation",
+    "option2": "Wind",
+    "option3": "Soil minerals",
+    "option4": "Water cycle"
+  },
+  {
+    "question": "The second law of thermodynamics explains why:",
+    "option1": "Energy transfer between trophic levels is inefficient",
+    "option2": "Decomposers cannot recycle minerals",
+    "option3": "Energy can be recycled in ecosystems",
+    "option4": "Nutrients are lost in food chains"
+  },
+  {
+    "question": "Which ecosystem has the highest net primary productivity per unit area",
+    "option1": "Tropical rainforest",
+    "option2": "Coral reefs",
+    "option3": "Open ocean",
+    "option4": "Desert scrub"
+  },
+  {
+    "question": "The pyramids of number in a grassland ecosystem is usually:",
+    "option1": "Upright",
+    "option2": "Irregular",
+    "option3": "Inverted",
+    "option4": "Spindle-shaped"
+  },
+  {
+    "question": "Which one of the following statements is false?",
+    "option1": "Decomposers are absent in aquatic ecosystems",
+    "option2": "Energy flow in an ecosystem is unidirectional",
+    "option3": "Matter cycles within an ecosystem",
+    "option4": "Herbivores are primary consumers"
+  },
+  {
+    "question": "A self-sustaining natural ecosystem is:",
+    "option1": "Pond",
+    "option2": "Garden",
+    "option3": "Agricultural field",
+    "option4": "Aquarium"
+  },
+  {
+    "question": "Which process in the ecosystem directly connects biotic and abiotic components?",
+    "option1": "Photosynthesis",
+    "option2": "Competition",
+    "option3": "Predation",
+    "option4": "Parasitism"
+  },
+  {
+    "question": "Which ecological pyramid can never be inverted?",
+    "option1": "Pyramid of energy",
+    "option2": "All pyramids",
+    "option3": "Pyramid of biomass",
+    "option4": "Pyramid of number"
+  },
+  {
+    "question": "In a forest ecosystem, primary consumers are:",
+    "option1": "Herbivores",
+    "option2": "Omnivores",
+    "option3": "Carnivores",
+    "option4": "Decomposers"
+  },
+  {
+    "question": "The most stable ecosystem is:",
+    "option1": "Ocean",
+    "option2": "Desert",
+    "option3": "Forest",
+    "option4": "Grassland"
+  },
+  {
+    "question": "Which of the following represents the correct sequence of energy flow?",
+    "option1": "Sun ? Producer ? Primary consumer ? Secondary consumer ? Decomposer",
+    "option2": "Sun ? Producer ? Secondary consumer ? Primary consumer ? Decomposer",
+    "option3": "Producer ? Sun ? Primary consumer ? Secondary consumer ? Decomposer",
+    "option4": "Sun ? Primary consumer ? Producer ? Decomposer ? Secondary consumer"
+  },
+  {
+    "question": "Which term refers to the maximum energy available to a consumer population after respiration losses of producers?",
+    "option1": "Net primary productivity (NPP)",
+    "option2": "Biomass productivity",
+    "option3": "Gross primary productivity (GPP)",
+    "option4": "Secondary productivity"
+  },
+  {
+    "question": "In ecological succession, the first species to colonize a barren area are called:",
+    "option1": "Pioneer species",
+    "option2": "Keystone species",
+    "option3": "Climax community",
+    "option4": "Secondary species"
+  },
+  {
+    "question": "The ecosystem where decomposers play the most significant role in recycling nutrients is:",
+    "option1": "Forest floor",
+    "option2": "Desert",
+    "option3": "Open ocean",
+    "option4": "Tundra"
+  },
+  {
+    "question": "Which factor limits energy flow efficiency between trophic levels?",
+    "option1": "Heat loss through respiration",
+    "option2": "Nutrient cycling",
+    "option3": "Abundance of producers",
+    "option4": "Herbivore population size"
+  },
+  {
+    "question": "The sequence of organisms through which energy flows in an ecosystem is called:",
+    "option1": "Food chain",
+    "option2": "Food web",
+    "option3": "Food pyramid",
+    "option4": "Ecological succession"
+  },
+  {
+    "question": "Which of the following represents a grazing food chain?",
+    "option1": "Grass ? Grasshopper ? Frog ? Snake",
+    "option2": "Dead plants ? Fungi ? Bacteria",
+    "option3": "Algae ? Zooplankton ? Fish",
+    "option4": "Lion ? Hyena ? Vulture"
+  },
+  {
+    "question": "The interconnected network of food chains in an ecosystem is known as:",
+    "option1": "Food web",
+    "option2": "Food pyramid",
+    "option3": "Food chain",
+    "option4": "Trophic level"
+  },
+  {
+    "question": "In a food chain, the green plants are always:",
+    "option1": "Producers",
+    "option2": "Decomposers",
+    "option3": "Primary consumers",
+    "option4": "Secondary consumers"
+  },
+  {
+    "question": "The largest artificial ecosystem on Earth is:",
+    "option1": "Agricultural fields",
+    "option2": "Aquarium",
+    "option3": "Reservoirs",
+    "option4": "Urban cities"
+  },
+  {
+    "question": "Which ecological pyramid is always upright?",
+    "option1": "Pyramid of energy",
+    "option2": "All pyramids",
+    "option3": "Pyramid of biomass",
+    "option4": "Pyramid of number"
+  },
+  {
+    "question": "In a food pyramid, the largest number of organisms is found at the:",
+    "option1": "Producer level",
+    "option2": "Tertiary consumer level",
+    "option3": "Secondary consumer level",
+    "option4": "Top carnivore level"
+  },
+  {
+    "question": "Which of the following organisms occupies the highest trophic level in a food chain?",
+    "option1": "Top carnivores",
+    "option2": "Decomposers",
+    "option3": "Herbivores",
+    "option4": "Producers"
+  },
+  {
+    "question": "In a detritus food chain, the primary source of energy is:",
+    "option1": "Dead organic matter",
+    "option2": "Herbivores",
+    "option3": "Sunlight",
+    "option4": "Producers"
+  },
+  {
+    "question": "Which food chain correctly shows the flow of energy in a pond ecosystem?",
+    "option1": "Phytoplankton ? Zooplankton ? Small fish ? Large fish",
+    "option2": "Zooplankton ? Phytoplankton ? Small fish ? Large fish",
+    "option3": "Large fish ? Small fish ? Zooplankton ? Phytoplankton",
+    "option4": "Phytoplankton ? Small fish ? Zooplankton ? Large fish"
+  },
+  {
+    "question": "Why does the pyramid of energy never get inverted?",
+    "option1": "Energy decreases at each trophic level",
+    "option2": "Energy flows in cycles",
+    "option3": "Biomass is always constant",
+    "option4": "Number of organisms increases at higher levels"
+  },
+  {
+    "question": "In a food web, organisms that feed on both plants and animals are called:",
+    "option1": "Omnivores",
+    "option2": "Producers",
+    "option3": "Herbivores",
+    "option4": "Carnivores"
+  },
+  {
+    "question": "Which ecological pyramid may sometimes appear inverted?",
+    "option1": "Pyramid of biomass",
+    "option2": "All pyramids",
+    "option3": "Pyramid of energy",
+    "option4": "Pyramid of numbers"
+  },
+  {
+    "question": "The amount of energy transferred from one trophic level to the next is approximately:",
+    "option1": "10%",
+    "option2": "50%",
+    "option3": "1%",
+    "option4": "25%"
+  },
+  {
+    "question": "The lion in a grassland food chain is an example of:",
+    "option1": "Tertiary consumer",
+    "option2": "Producer",
+    "option3": "Primary consumer",
+    "option4": "Secondary consumer"
+  },
+  {
+    "question": "The flow of energy in an ecosystem is always:",
+    "option1": "Linear",
+    "option2": "Cyclic",
+    "option3": "Multidirectional",
+    "option4": "Reversible"
+  },
+  {
+    "question": "Food webs provide more stability to the ecosystem than food chains because:",
+    "option1": "They offer alternative pathways for energy flow",
+    "option2": "They have fewer trophic levels",
+    "option3": "They depend only on producers",
+    "option4": "They are shorter than food chains"
+  },
+  {
+    "question": "The variety of life forms at all levels of biological organization is called:",
+    "option1": "Biodiversity",
+    "option2": "Ecology",
+    "option3": "Ecosystem",
+    "option4": "Biomass"
+  },
+  {
+    "question": "Which type of biodiversity refers to variations within the same species?",
+    "option1": "Genetic diversity",
+    "option2": "Species diversity",
+    "option3": "Ecosystem diversity",
+    "option4": "Habitat diversity"
+  },
+  {
+    "question": "Which type of biodiversity refers to the variety of species in a given area?",
+    "option1": "Species diversity",
+    "option2": "Population diversity",
+    "option3": "Genetic diversity",
+    "option4": "Ecosystem diversity"
+  },
+  {
+    "question": "Which type of biodiversity refers to different habitats, biotic communities, and ecological processes?",
+    "option1": "Ecosystem diversity",
+    "option2": "Habitat diversity",
+    "option3": "Genetic diversity",
+    "option4": "Species diversity"
+  },
+  {
+    "question": "India is recognized as a mega-diversity nation because:",
+    "option1": "It has a wide variety of species and ecosystems",
+    "option2": "It has maximum wetlands",
+    "option3": "It has the largest forests",
+    "option4": "It has only endemic species"
+  },
+  {
+    "question": "The Himalaya and Indo-Burma regions are examples of:",
+    "option1": "Biodiversity hotspots",
+    "option2": "Ex-situ conservation sites",
+    "option3": "Genetic reserves",
+    "option4": "Wildlife sanctuaries"
+  },
+  {
+    "question": "Which of the following is a consumptive use value of biodiversity?",
+    "option1": "Fuel wood",
+    "option2": "Cultural value",
+    "option3": "Aesthetic value",
+    "option4": "Recreational value"
+  },
+  {
+    "question": "Which of the following is a non-consumptive use value of biodiversity?",
+    "option1": "Ecotourism",
+    "option2": "Medicine",
+    "option3": "Food",
+    "option4": "Timber"
+  },
+  {
+    "question": "The greatest threat to biodiversity is:",
+    "option1": "Habitat loss",
+    "option2": "Ecotourism",
+    "option3": "Medicinal plant use",
+    "option4": "Ex-situ conservation"
+  },
+  {
+    "question": "Which of the following ecosystems has the highest productivity?",
+    "option1": "Estuary",
+    "option2": "Desert",
+    "option3": "Grassland",
+    "option4": "Tundra"
+  },
+  {
+    "question": "The species found only in a particular area and nowhere else are called:",
+    "option1": "Endemic species",
+    "option2": "Vulnerable species",
+    "option3": "Endangered species",
+    "option4": "Exotic species"
+  },
+  {
+    "question": "Which of the following is NOT a threat to biodiversity?",
+    "option1": "Ex-situ conservation",
+    "option2": "Man-wildlife conflict",
+    "option3": "Poaching of wildlife",
+    "option4": "Habitat destruction"
+  },
+  {
+    "question": "Which biodiversity hotspot in India is richest in endemism?",
+    "option1": "Indo-Burma region",
+    "option2": "Gangetic plains",
+    "option3": "Himalaya",
+    "option4": "Sundarbans"
+  },
+  {
+    "question": "Which of the following represents the option value of biodiversity?",
+    "option1": "Future potential use of biodiversity",
+    "option2": "Current use of biodiversity",
+    "option3": "Cultural value of biodiversity",
+    "option4": "Spiritual value of biodiversity"
+  },
+  {
+    "question": "The Western Ghats are a hotspot of biodiversity because they:",
+    "option1": "Harbor a large number of endemic species",
+    "option2": "Are rich in minerals",
+    "option3": "Are densely populated",
+    "option4": "Are used for agriculture"
+  },
+  {
+    "question": "Which international agreement focuses on the conservation of biodiversity?",
+    "option1": "Convention on Biological Diversity (CBD)",
+    "option2": "Kyoto Protocol",
+    "option3": "Paris Agreement",
+    "option4": "Montreal Protocol"
+  },
+  {
+    "question": "Which Indian state is part of both the Indo-Burma and Himalaya hotspots?",
+    "option1": "Arunachal Pradesh",
+    "option2": "Kerala",
+    "option3": "Maharashtra",
+    "option4": "Rajasthan"
+  },
+  {
+    "question": "Which of the following is an example of in-situ conservation of biodiversity?",
+    "option1": "National park",
+    "option2": "Zoo",
+    "option3": "Seed bank",
+    "option4": "Botanical garden"
+  },
+  {
+    "question": "The IUCN Red List provides information about:",
+    "option1": "Conservation status of species",
+    "option2": "Agricultural practices",
+    "option3": "Types of ecosystems",
+    "option4": "Levels of biodiversity"
+  },
+  {
+    "question": "The ethical value of biodiversity refers to:",
+    "option1": "The right of all species to exist",
+    "option2": "Commercial use of species",
+    "option3": "Food and medicine",
+    "option4": "Recreation"
+  },
+  {
+    "question": "Which level of consumers directly depends on green plants for energy?",
+    "option1": "Primary consumers",
+    "option2": "Secondary consumers",
+    "option3": "Tertiary consumers",
+    "option4": "Quaternary consumers"
+  },
+  {
+    "question": "Overexploitation of resources primarily leads to:",
+    "option1": "Loss of biodiversity",
+    "option2": "Increase in biodiversity",
+    "option3": "Stabilization of ecosystems",
+    "option4": "Formation of new species"
+  },
+  {
+    "question": "The term \"Ecosystem\" was first coined by:",
+    "option1": "A.G. Tansley",
+    "option2": "Odum",
+    "option3": "Charles Darwin",
+    "option4": "Ernst Haeckel"
+  },
+  {
+    "question": "The word \"Ecology\" was first coined by:",
+    "option1": "Ernst Haeckel",
+    "option2": "Linnaeus",
+    "option3": "A.G. Tansley",
+    "option4": "Charles Elton"
+  },
+  {
+    "question": "The root word \"Eco\" in Ecology and Ecosystem is derived from Greek \"Oikos\", meaning:",
+    "option1": "House or dwelling place",
+    "option2": "Nature",
+    "option3": "Environment",
+    "option4": "Organism"
+  },
+  {
+    "question": "Ecology is mainly concerned with:",
+    "option1": "Interactions between organisms and their environment",
+    "option2": "Geological processes",
+    "option3": "Evolution of organisms",
+    "option4": "Genetic variations"
+  },
+  {
+    "question": "The relationship between Ecology and Ecosystem can be defined as:",
+    "option1": "Ecology studies interactions, Ecosystem is the structural and functional unit",
+    "option2": "Ecosystem creates species, Ecology destroys them",
+    "option3": "Ecology is smaller than an Ecosystem",
+    "option4": "They are unrelated concepts"
+  },
+  {
+    "question": "In an ecosystem, which organisms return nutrients back to the soil?",
+    "option1": "Decomposers",
+    "option2": "Producers",
+    "option3": "Primary consumers",
+    "option4": "Secondary consumers"
+  },
+  {
+    "question": "Which one of the following is a man-made/artificial ecosystem?",
+    "option1": "Aquarium",
+    "option2": "Grassland",
+    "option3": "Forest",
+    "option4": "Pond"
+  },
+  {
+    "question": "The source of all energy in an ecosystem is:",
+    "option1": "Sunlight",
+    "option2": "Water",
+    "option3": "Oxygen",
+    "option4": "Soil nutrients"
+  },
+  {
+    "question": "Which organization monitors environmental issues globally?",
+    "option1": "UNEP",
+    "option2": "WHO",
+    "option3": "UNICEF",
+    "option4": "UNESCO"
+  },
+  {
+    "question": "Which term refers to the variety of life on Earth?",
+    "option1": "Biodiversity",
+    "option2": "Ecology",
+    "option3": "Habitat",
+    "option4": "Conservation"
+  },
+  {
+    "question": "What does the 3Rs principle stand for?",
+    "option1": "Reduce, Reuse, Recycle",
+    "option2": "Recycle, Reuse, Repeat",
+    "option3": "Rebuild, Reuse, Reboot",
+    "option4": "Reduce, Recycle, Recover"
+  },
+  {
+    "question": "The Environment (Protection) Act was enacted in which year?",
+    "option1": 1986,
+    "option2": 2000,
+    "option3": 1972,
+    "option4": 1992
+  },
+  {
+    "question": "World Environment Day is celebrated on:",
+    "option1": "Jun-05",
+    "option2": "Mar-21",
+    "option3": "Apr-22",
+    "option4": "Dec-01"
+  },
+  {
+    "question": "The Environment (Protection) Act was enacted after which global event?",
+    "option1": "Bhopal Gas Tragedy",
+    "option2": "Stockholm Conference",
+    "option3": "Rio Earth Summit",
+    "option4": "Kyoto Protocol"
+  },
+  {
+    "question": "The most common indicator of water pollution is:",
+    "option1": "Dissolved Oxygen",
+    "option2": "pH",
+    "option3": "Salinity",
+    "option4": "Conductivity"
+  },
+  {
+    "question": "Which parameter indicates the amount of oxygen required by microorganisms to decompose organic matter?",
+    "option1": "BOD",
+    "option2": "TOC",
+    "option3": "COD",
+    "option4": "DO"
+  },
+  {
+    "question": "COD in water represents:",
+    "option1": "Oxygen required to oxidize organic & inorganic matter chemically",
+    "option2": "Oxygen consumed by fish",
+    "option3": "Oxygen used by microorganisms",
+    "option4": "Oxygen dissolved in water"
+  },
+  {
+    "question": "Which type of waste increases BOD levels in water?",
+    "option1": "Organic waste",
+    "option2": "Salts",
+    "option3": "Plastic waste",
+    "option4": "Heavy metals"
+  },
+  {
+    "question": "High BOD in a river indicates:",
+    "option1": "Heavy organic pollution",
+    "option2": "Low organic load",
+    "option3": "Good water quality",
+    "option4": "High dissolved oxygen"
+  },
+  {
+    "question": "Dissolved Oxygen (DO) is essential for:",
+    "option1": "Aquatic life survival",
+    "option2": "Neutralizing toxins",
+    "option3": "Maintaining pH",
+    "option4": "Reducing hardness"
+  },
+  {
+    "question": "Typical BOD of clean drinking water is:",
+    "option1": "< 1 mg/L",
+    "option2": "100 mg/L",
+    "option3": "10 mg/L",
+    "option4": "50 mg/L"
+  },
+  {
+    "question": "When sewage is discharged into water, DO levels:",
+    "option1": "Decrease",
+    "option2": "Become zero immediately",
+    "option3": "Increase",
+    "option4": "Remain constant"
+  },
+  {
+    "question": "The presence of high COD compared to BOD indicates:",
+    "option1": "Presence of toxic pollutants",
+    "option2": "Absence of chemicals",
+    "option3": "Only biodegradable waste",
+    "option4": "No pollution"
+  },
+  {
+    "question": "Major source of organic pollution in rivers is:",
+    "option1": "Domestic sewage",
+    "option2": "Mining",
+    "option3": "Industrial salts",
+    "option4": "Thermal pollution"
+  },
+  {
+    "question": "In a polluted river, DO levels are usually:",
+    "option1": "< 4 mg/L",
+    "option2": "8�10 mg/L",
+    "option3": "12�15 mg/L",
+    "option4": "> 20 mg/L"
+  },
+  {
+    "question": "Eutrophication of lakes is mainly due to:",
+    "option1": "Excess nutrients (N, P)",
+    "option2": "High DO",
+    "option3": "Low COD",
+    "option4": "Neutral pH"
+  },
+  {
+    "question": "Which unit is used to express BOD and COD?",
+    "option1": "mg/L",
+    "option2": "%",
+    "option3": "g/L",
+    "option4": "ppm"
+  },
+  {
+    "question": "DO in water is replenished mainly by:",
+    "option1": "Photosynthesis & Atmospheric diffusion",
+    "option2": "Oxidation",
+    "option3": "Sedimentation",
+    "option4": "Decomposition"
+  },
+  {
+    "question": "The self-purification of rivers is due to:",
+    "option1": "Re-aeration & microbial degradation",
+    "option2": "COD increase",
+    "option3": "Acidification",
+    "option4": "Evaporation"
+  },
+  {
+    "question": "Which is more rapid as a test for pollution?",
+    "option1": "COD test",
+    "option2": "pH test",
+    "option3": "BOD test",
+    "option4": "DO test"
+  },
+  {
+    "question": "If BOD = 300 mg/L in wastewater, the water quality is:",
+    "option1": "Highly polluted",
+    "option2": "Potable",
+    "option3": "Clean",
+    "option4": "Moderately polluted"
+  },
+  {
+    "question": "The most important parameter for measuring organic pollution load is:",
+    "option1": "BOD",
+    "option2": "Alkalinity",
+    "option3": "Hardness",
+    "option4": "Turbidity"
+  },
+  {
+    "question": "The major pollutant responsible for acid rain is:",
+    "option1": "SO?",
+    "option2": "CO?",
+    "option3": "O?",
+    "option4": "CH?"
+  },
+  {
+    "question": "Photochemical smog is mainly caused by:",
+    "option1": "NOx and hydrocarbons",
+    "option2": "CO? and SO?",
+    "option3": "CO and CO?",
+    "option4": "O? and N?"
+  },
+  {
+    "question": "The Air Quality Index (AQI) indicates:",
+    "option1": "Level of air pollution affecting health",
+    "option2": "Temperature variation",
+    "option3": "Rainfall prediction",
+    "option4": "Wind speed"
+  },
+  {
+    "question": "The most harmful type of particulate matter for human lungs is:",
+    "option1": "PM2.5",
+    "option2": "PM10",
+    "option3": "PM100",
+    "option4": "Dust particles > 100 �m"
+  },
+  {
+    "question": "The disease 'Black lung disease' is associated with:",
+    "option1": "Coal miners (particulates)",
+    "option2": "Asbestos",
+    "option3": "Tobacco smoke",
+    "option4": "Lead poisoning"
+  },
+  {
+    "question": "Ozone in the stratosphere is:",
+    "option1": "Beneficial, absorbs UV rays",
+    "option2": "Harmful, greenhouse gas",
+    "option3": "Cause of smog",
+    "option4": "A heavy metal"
+  },
+  {
+    "question": "Ozone in the troposphere is:",
+    "option1": "Harmful air pollutant",
+    "option2": "Protective layer",
+    "option3": "Neutral gas",
+    "option4": "Not significant"
+  },
+  {
+    "question": "Carbon monoxide pollution mainly affects:",
+    "option1": "Oxygen transport in blood",
+    "option2": "Nervous system",
+    "option3": "Vision",
+    "option4": "Bones"
+  },
+  {
+    "question": "The main pollutant from automobiles is:",
+    "option1": "Carbon monoxide",
+    "option2": "Sulphur dioxide",
+    "option3": "Methane",
+    "option4": "CFCs"
+  },
+  {
+    "question": "Which gas causes respiratory irritation and bronchitis?",
+    "option1": "SO?",
+    "option2": "CO?",
+    "option3": "H?",
+    "option4": "CH?"
+  },
+  {
+    "question": "Which of the following is a greenhouse gas?",
+    "option1": "CO?",
+    "option2": "N?",
+    "option3": "Ar",
+    "option4": "O?"
+  },
+  {
+    "question": "The Bhopal gas tragedy (1984) was caused by leakage of:",
+    "option1": "Methyl isocyanate (MIC)",
+    "option2": "Chlorine",
+    "option3": "Ammonia",
+    "option4": "SO?"
+  },
+  {
+    "question": "Lead pollution in air mainly comes from:",
+    "option1": "Old vehicle exhaust (leaded petrol)",
+    "option2": "Soil erosion",
+    "option3": "Nuclear plants",
+    "option4": "Forest fires"
+  },
+  {
+    "question": "The colorless, odorless, toxic gas that binds to hemoglobin is:",
+    "option1": "Carbon monoxide",
+    "option2": "Nitrous oxide",
+    "option3": "Methane",
+    "option4": "Sulphur dioxide"
+  },
+  {
+    "question": "AQI value above 400 indicates:",
+    "option1": "Severe pollution",
+    "option2": "Good air quality",
+    "option3": "Moderate air quality",
+    "option4": "Satisfactory"
+  },
+  {
+    "question": "Which pollutant damages the nervous system, especially in children?",
+    "option1": "Lead",
+    "option2": "SO?",
+    "option3": "CO?",
+    "option4": "O?"
+  },
+  {
+    "question": "The major cause of soil pollution is:",
+    "option1": "Excessive use of chemicals (pesticides, fertilizers)",
+    "option2": "Waterlogging",
+    "option3": "Wind erosion",
+    "option4": "Soil organisms"
+  },
+  {
+    "question": "Soil pollution by heavy metals mainly comes from:",
+    "option1": "Industrial effluents",
+    "option2": "Biomass burning",
+    "option3": "Oxygen depletion",
+    "option4": "Acid rain"
+  },
+  {
+    "question": "Excess nitrate in soil leads to:",
+    "option1": "Groundwater pollution",
+    "option2": "Ozone depletion",
+    "option3": "Acid rain",
+    "option4": "Soil erosion"
+  },
+  {
+    "question": "Which of the following is not a biodegradable solid waste?",
+    "option1": "Plastic",
+    "option2": "Wood",
+    "option3": "Paper",
+    "option4": "Food waste"
+  },
+  {
+    "question": "Municipal solid waste (MSW) in India is largely composed of:",
+    "option1": "Organic matter",
+    "option2": "Glass",
+    "option3": "Plastic",
+    "option4": "Metal"
+  },
+  {
+    "question": "The process of controlled burning of solid waste at high temperatures is:",
+    "option1": "Incineration",
+    "option2": "Vermiculture",
+    "option3": "Composting",
+    "option4": "Landfilling"
+  },
+  {
+    "question": "The process of converting organic waste into manure is:",
+    "option1": "Composting",
+    "option2": "Gasification",
+    "option3": "Incineration",
+    "option4": "Recycling"
+  },
+  {
+    "question": "Sanitary landfills are used for:",
+    "option1": "Safe disposal of solid waste",
+    "option2": "Soil erosion control",
+    "option3": "Irrigation",
+    "option4": "Mining"
+  },
+  {
+    "question": "Biomedical waste should be disposed of by:",
+    "option1": "Incineration",
+    "option2": "Landfilling",
+    "option3": "Composting",
+    "option4": "Open dumping"
+  },
+  {
+    "question": "Which is considered hazardous waste?",
+    "option1": "E-waste",
+    "option2": "Yard waste",
+    "option3": "Food waste",
+    "option4": "Paper waste"
+  },
+  {
+    "question": "E-waste mainly contains:",
+    "option1": "Toxic heavy metals and plastics",
+    "option2": "Only organic matter",
+    "option3": "Pure biodegradable compounds",
+    "option4": "Harmless salts"
+  },
+  {
+    "question": "Which metal is most common in e-waste?",
+    "option1": "Lead",
+    "option2": "Sodium",
+    "option3": "Calcium",
+    "option4": "Potassium"
+  },
+  {
+    "question": "Mercury pollution in soil is commonly associated with:",
+    "option1": "Electronic waste",
+    "option2": "Forest fires",
+    "option3": "Textile industry",
+    "option4": "Agriculture"
+  },
+  {
+    "question": "The best method of managing biodegradable solid waste is:",
+    "option1": "Composting",
+    "option2": "Deep burial",
+    "option3": "Open dumping",
+    "option4": "Burning"
+  },
+  {
+    "question": "Which electronic device contributes the maximum to e-waste in India?",
+    "option1": "Mobile phones & computers",
+    "option2": "Printers",
+    "option3": "Refrigerators",
+    "option4": "Air conditioners"
+  },
+  {
+    "question": "Which method is most eco-friendly for solid waste management?",
+    "option1": "Reduce, Reuse, Recycle (3Rs)",
+    "option2": "Landfilling",
+    "option3": "Open dumping",
+    "option4": "Incineration"
+  },
+  {
+    "question": "Which of the following pollutants is most commonly associated with agricultural runoff?",
+    "option1": "Nitrates and phosphates",
+    "option2": "Asbestos",
+    "option3": "Mercury",
+    "option4": "Lead"
+  },
+  {
+    "question": "What is eutrophication?",
+    "option1": "Excessive growth of algae due to nutrient pollution",
+    "option2": "Removal of pollutants from water",
+    "option3": "Increase in oxygen levels in water",
+    "option4": "Depletion of nutrients in water"
+  },
+  {
+    "question": "The presence of which of the following in drinking water indicates contamination by human or animal waste?",
+    "option1": "Escherichia coli (E. coli)",
+    "option2": "Chlorine",
+    "option3": "Nitrates",
+    "option4": "Iron"
+  },
+  {
+    "question": "Acid rain is a type of water pollution caused mainly by:",
+    "option1": "Sulfur dioxide and nitrogen oxides",
+    "option2": "Oxygen and helium",
+    "option3": "Carbon monoxide and nitrogen",
+    "option4": "Methane and hydrogen"
+  },
+  {
+    "question": "The process of removing salt from seawater is called:",
+    "option1": "Desalination",
+    "option2": "Chlorination",
+    "option3": "Sedimentation",
+    "option4": "Filtration"
+  },
+  {
+    "question": "Which of these is not a water-borne disease?",
+    "option1": "Malaria",
+    "option2": "Dysentery",
+    "option3": "Typhoid",
+    "option4": "Cholera"
+  },
+  {
+    "question": "Point source pollution refers to pollution that:",
+    "option1": "Can be traced to a specific location",
+    "option2": "Comes from rain",
+    "option3": "Comes from the atmosphere",
+    "option4": "Has no specific origin"
+  },
+  {
+    "question": "Which of these is a biological method of water purification?",
+    "option1": "Activated sludge process",
+    "option2": "Reverse osmosis",
+    "option3": "Boiling",
+    "option4": "Chlorination"
+  },
+  {
+    "question": "Pesticides and fertilizers are primarily responsible for:",
+    "option1": "Soil pollution",
+    "option2": "Erosion control",
+    "option3": "Increasing biodiversity",
+    "option4": "Improving soil texture"
+  },
+  {
+    "question": "Which of the following is a biodegradable pollutant?",
+    "option1": "Paper",
+    "option2": "DDT",
+    "option3": "Plastic",
+    "option4": "Glass"
+  },
+  {
+    "question": "What is bioremediation?",
+    "option1": "Use of microorganisms to clean pollutants",
+    "option2": "Use of chemicals to remove pollution",
+    "option3": "Burning of waste",
+    "option4": "Soil erosion control"
+  },
+  {
+    "question": "Landfills are a source of:",
+    "option1": "Soil contamination",
+    "option2": "Pest control",
+    "option3": "Soil improvement",
+    "option4": "Groundwater recharge"
+  },
+  {
+    "question": "What is leaching in soil?",
+    "option1": "Removal of nutrients by water",
+    "option2": "Fertilizer application",
+    "option3": "Aeration of soil",
+    "option4": "Addition of humus"
+  },
+  {
+    "question": "What is smog primarily composed of?",
+    "option1": "Smoke and fog",
+    "option2": "Nitrogen and oxygen",
+    "option3": "Water vapor and dust",
+    "option4": "Ozone and carbon dioxide"
+  },
+  {
+    "question": "Which of the following is a greenhouse gas contributing to global warming?",
+    "option1": "Methane",
+    "option2": "Neon",
+    "option3": "Nitrogen",
+    "option4": "Argon"
+  },
+  {
+    "question": "What is the effect of ozone depletion?",
+    "option1": "Increased ultraviolet radiation reaching Earth",
+    "option2": "Increased greenhouse effect",
+    "option3": "Decreased rainfall",
+    "option4": "More acid rain"
+  },
+  {
+    "question": "Which unit is commonly used to measure air pollution levels (such as particulate matter concentration)?",
+    "option1": "Micrograms per cubic meter (�g/m�)",
+    "option2": "Watts (W",
+    "option3": "Decibel (dB)",
+    "option4": "Hertz (Hz)"
+  },
+  {
+    "question": "Which of the following is a natural source of air pollution?",
+    "option1": "Volcanic eruptions",
+    "option2": "Burning fossil fuels",
+    "option3": "Factory emissions",
+    "option4": "Automobile exhaust"
+  },
+  {
+    "question": "Which unit is used to measure noise levels?",
+    "option1": "Decibel (dB)",
+    "option2": "Newton",
+    "option3": "Watt",
+    "option4": "Hertz"
+  },
+  {
+    "question": "What noise level is generally considered the threshold for harmful noise?",
+    "option1": "85 dB",
+    "option2": "60 dB",
+    "option3": "30 dB",
+    "option4": "120 dB"
+  },
+  {
+    "question": "What does MSW stand for in waste management?",
+    "option1": "Municipal Solid Waste",
+    "option2": "Medical Solid Waste",
+    "option3": "Mixed Solid Waste",
+    "option4": "Managed Solid Waste"
+  },
+  {
+    "question": "Which type of waste is classified as hazardous?",
+    "option1": "Chemical solvents",
+    "option2": "Plastic bottles",
+    "option3": "Food waste",
+    "option4": "Paper waste"
+  },
+  {
+    "question": "The process of converting organic waste into nutrient-rich compost is called:",
+    "option1": "Composting",
+    "option2": "Recycling",
+    "option3": "Incineration",
+    "option4": "Landfilling"
+  },
+  {
+    "question": "What is leachate?",
+    "option1": "Liquid formed when waste decomposes in a landfill",
+    "option2": "A type of hazardous waste",
+    "option3": "Solid waste material",
+    "option4": "Gas produced during incineration"
+  },
+  {
+    "question": "Which international treaty deals with hazardous waste movement?",
+    "option1": "Basel Convention",
+    "option2": "Kyoto Protocol",
+    "option3": "Montreal Protocol",
+    "option4": "Paris Agreement"
+  },
+  {
+    "question": "Incineration of hazardous waste primarily helps in:",
+    "option1": "Waste volume reduction",
+    "option2": "Producing compost",
+    "option3": "Groundwater recharge",
+    "option4": "Increasing toxicity"
+  },
+  {
+    "question": "Which of the following is a solid waste segregation technique?",
+    "option1": "Source separation",
+    "option2": "Leachate treatment",
+    "option3": "Bulk dumping",
+    "option4": "Open burning"
+  },
+  {
+    "question": "Which hazardous waste treatment process involves heating waste in the absence of oxygen?",
+    "option1": "Pyrolysis",
+    "option2": "Incineration",
+    "option3": "Composting",
+    "option4": "Landfilling"
+  },
+  {
+    "question": "Which solid waste management method recovers energy from waste?",
+    "option1": "Incineration",
+    "option2": "Recycling",
+    "option3": "Landfilling",
+    "option4": "Composting"
+  },
+  {
+    "question": "Burning e-waste can release:",
+    "option1": "Dioxins and furans",
+    "option2": "Oxygen",
+    "option3": "Carbon dioxide only",
+    "option4": "Chlorofluorocarbons"
+  },
+  {
+    "question": "What is one of the most hazardous materials found in e-waste?",
+    "option1": "Lead",
+    "option2": "Aluminium",
+    "option3": "Plastic",
+    "option4": "Glass"
+  },
+  {
+    "question": "Which international standard is commonly used for OHASMS?",
+    "option1": "ISO 45001",
+    "option2": "ISO 14001",
+    "option3": "ISO 9001",
+    "option4": "ISO 27001"
+  },
+  {
+    "question": "The primary aim of OHASMS is to:",
+    "option1": "Prevent workplace injuries and illnesses",
+    "option2": "Improve product quality",
+    "option3": "Manage environmental impact",
+    "option4": "Increase production speed"
+  },
+  {
+    "question": "Which international event led to the celebration of World Environment Day?",
+    "option1": "Stockholm Conference",
+    "option2": "Kyoto Protocol",
+    "option3": "Rio Earth Summit",
+    "option4": "Paris Agreement"
+  },
+  {
+    "question": "Energy conservation refers to:",
+    "option1": "Efficient and wise use of energy resources",
+    "option2": "Using more energy",
+    "option3": "Generating electricity using coal",
+    "option4": "Avoiding renewable energy sources"
+  },
+  {
+    "question": "Energy efficiency means:",
+    "option1": "Using less energy to perform the same task",
+    "option2": "Using energy wastefully",
+    "option3": "Using more energy than required",
+    "option4": "Replacing energy with fuel"
+  },
+  {
+    "question": "Which device helps in energy conservation in homes?",
+    "option1": "LED light",
+    "option2": "Incandescent bulb",
+    "option3": "Diesel generator",
+    "option4": "Ceiling fan"
+  },
+  {
+    "question": "Which energy management technique involves studying energy usage patterns?",
+    "option1": "Energy audit",
+    "option2": "Billing system",
+    "option3": "Fuel combustion",
+    "option4": "Load shedding"
+  },
+  {
+    "question": "The energy conservation act in India was passed in:",
+    "option1": 2001,
+    "option2": 2005,
+    "option3": 1995,
+    "option4": 2010
+  },
+  {
+    "question": "Which body is responsible for energy efficiency in India?",
+    "option1": "BEE",
+    "option2": "SEBI",
+    "option3": "RBI",
+    "option4": "ISRO"
+  },
+  {
+    "question": "Energy Star label on an appliance indicates:",
+    "option1": "Energy efficiency",
+    "option2": "Poor performance",
+    "option3": "Low price",
+    "option4": "Low warranty"
+  },
+  {
+    "question": "One unit of electricity is equal to:",
+    "option1": "1 kilowatt-hour",
+    "option2": "1 kilowatt",
+    "option3": "1 watt",
+    "option4": "1 megawatt"
+  },
+  {
+    "question": "Which of the following is a renewable energy source?",
+    "option1": "Solar Energy",
+    "option2": "Nuclear Energy",
+    "option3": "Coal",
+    "option4": "Natural Gas"
+  },
+  {
+    "question": "Which device is used to convert sunlight directly into electricity?",
+    "option1": "Photovoltaic cell",
+    "option2": "Biomass generator",
+    "option3": "Wind turbine",
+    "option4": "Hydroelectric dam"
+  },
+  {
+    "question": "Which gas is mainly responsible for the greenhouse effect?",
+    "option1": "Carbon Dioxide",
+    "option2": "Oxygen",
+    "option3": "Nitrogen",
+    "option4": "Helium"
+  },
+  {
+    "question": "Which renewable energy source is generated from organic matter?",
+    "option1": "Biomass",
+    "option2": "Wind",
+    "option3": "Hydropower",
+    "option4": "Solar"
+  },
+  {
+    "question": "Wind turbines convert:",
+    "option1": "Kinetic energy into electricity",
+    "option2": "Mechanical energy into heat",
+    "option3": "Solar energy into electricity",
+    "option4": "Heat energy into electricity"
+  },
+  {
+    "question": "Which is the cleanest renewable energy source?",
+    "option1": "Solar",
+    "option2": "Coal",
+    "option3": "Natural Gas",
+    "option4": "Oil"
+  },
+  {
+    "question": "What is biomass energy primarily derived from?",
+    "option1": "Organic matter",
+    "option2": "Wind",
+    "option3": "Fossil fuels",
+    "option4": "Nuclear reactions"
+  },
+  {
+    "question": "Which gas is produced during anaerobic digestion of biomass?",
+    "option1": "Methane",
+    "option2": "Nitrogen",
+    "option3": "Oxygen",
+    "option4": "Carbon dioxide"
+  },
+  {
+    "question": "Which process converts biomass into liquid biofuels?",
+    "option1": "Fermentation",
+    "option2": "Combustion",
+    "option3": "Photosynthesis",
+    "option4": "Gasification"
+  },
+  {
+    "question": "Bioethanol is mainly produced from:",
+    "option1": "Corn and sugarcane",
+    "option2": "Solar energy",
+    "option3": "Wood",
+    "option4": "Coal"
+  },
+  {
+    "question": "Which type of biomass energy technology produces heat and electricity directly by burning biomass?",
+    "option1": "Combustion",
+    "option2": "Fermentation",
+    "option3": "Anaerobic digestion",
+    "option4": "Gasification"
+  },
+  {
+    "question": "Biodiesel is mainly produced from:",
+    "option1": "Vegetable oils and animal fats",
+    "option2": "Wood",
+    "option3": "Coal",
+    "option4": "Natural gas"
+  },
+  {
+    "question": "Hydrogen fuel cells convert:",
+    "option1": "Chemical energy into electricity",
+    "option2": "Chemical energy directly into heat",
+    "option3": "Electrical energy into mechanical energy",
+    "option4": "Mechanical energy into chemical energy"
+  },
+  {
+    "question": "Electrolysis of water produces hydrogen and:",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon dioxide",
+    "option4": "Methane"
+  },
+  {
+    "question": "What is a major challenge of using hydrogen as a fuel?",
+    "option1": "Storage and transportation difficulties",
+    "option2": "Limited fuel availability",
+    "option3": "High carbon emissions",
+    "option4": "Low energy content"
+  },
+  {
+    "question": "Which of the following is NOT a common method of hydrogen production?",
+    "option1": "Combustion",
+    "option2": "Biomass gasification",
+    "option3": "Electrolysis",
+    "option4": "Steam methane reforming"
+  },
+  {
+    "question": "Fuel cells require:",
+    "option1": "Hydrogen and oxygen",
+    "option2": "Constant supply of fossil fuels",
+    "option3": "Nuclear fuel",
+    "option4": "Coal"
+  },
+  {
+    "question": "Tidal barrages work similarly to:",
+    "option1": "Hydroelectric dams",
+    "option2": "Wind turbines",
+    "option3": "Solar panels",
+    "option4": "Geothermal plants"
+  },
+  {
+    "question": "Which country operates the largest tidal power station?",
+    "option1": "South Korea",
+    "option2": "United States",
+    "option3": "Canada",
+    "option4": "France"
+  },
+  {
+    "question": "Ocean energy is considered:",
+    "option1": "Renewable",
+    "option2": "Non-renewable",
+    "option3": "Fossil fuel-based",
+    "option4": "Polluting"
+  },
+  {
+    "question": "Which device is used to harness energy from ocean waves?",
+    "option1": "Oscillating water column",
+    "option2": "Photovoltaic cells",
+    "option3": "Pelton wheel",
+    "option4": "Steam turbine"
+  },
+  {
+    "question": "The unit used to measure tidal range is:",
+    "option1": "Meters",
+    "option2": "Pascals",
+    "option3": "Kilowatts",
+    "option4": "Joules"
+  },
+  {
+    "question": "Tidal energy is converted into electricity using:",
+    "option1": "Turbines",
+    "option2": "Batteries",
+    "option3": "Solar panels",
+    "option4": "Gas engines"
+  },
+  {
+    "question": "The height difference between high tide and low tide is called:",
+    "option1": "Tide range",
+    "option2": "Tidal speed",
+    "option3": "Wave height",
+    "option4": "Tidal flow"
+  },
+  {
+    "question": "What is the primary source of geothermal energy?",
+    "option1": "Heat from Earth's interior",
+    "option2": "Sunlight",
+    "option3": "Ocean currents",
+    "option4": "Wind movement"
+  },
+  {
+    "question": "Which of the following best describes the source of geothermal energy?",
+    "option1": "Radioactive decay of materials in Earth's core",
+    "option2": "Photosynthesis",
+    "option3": "Ocean waves",
+    "option4": "Burning of coal"
+  },
+  {
+    "question": "The first commercial geothermal power plant was established in:",
+    "option1": 1904,
+    "option2": 1975,
+    "option3": 1864,
+    "option4": 1950
+  },
+  {
+    "question": "Which layer of the Earth is the hottest and contributes most to geothermal heat?",
+    "option1": "Inner core",
+    "option2": "Outer core",
+    "option3": "Crust",
+    "option4": "Mantle"
+  },
+  {
+    "question": "What type of rock is typically associated with geothermal activity?",
+    "option1": "Igneous",
+    "option2": "Limestone",
+    "option3": "Sedimentary",
+    "option4": "Metamorphic"
+  },
+  {
+    "question": "Geothermal energy is found most abundantly in:",
+    "option1": "Volcanic regions and tectonic plate boundaries",
+    "option2": "High-altitude mountains",
+    "option3": "Desert areas",
+    "option4": "Coastal regions"
+  },
+  {
+    "question": "The transfer of geothermal heat from the Earth�s interior to the surface is primarily through:",
+    "option1": "Convection",
+    "option2": "Radiation",
+    "option3": "Conduction",
+    "option4": "Evaporation"
+  },
+  {
+    "question": "Which radioactive elements are mainly responsible for geothermal heat?",
+    "option1": "Uranium, thorium, and potassium",
+    "option2": "Iron, carbon, and silicon",
+    "option3": "Nitrogen, oxygen, and argon",
+    "option4": "Sodium, chlorine, and magnesium"
+  },
+  {
+    "question": "In which of the Earth�s layers is geothermal energy stored?",
+    "option1": "Lithosphere",
+    "option2": "Atmosphere",
+    "option3": "Hydrosphere",
+    "option4": "Exosphere"
+  },
+  {
+    "question": "Sustainability focuses on:",
+    "option1": "Meeting present needs without compromising future needs",
+    "option2": "Present generation only",
+    "option3": "Future generations only",
+    "option4": "Profit maximization"
+  },
+  {
+    "question": "The three main aspects of sustainability are:",
+    "option1": "Environmental, social, economic",
+    "option2": "Political, cultural, ecological",
+    "option3": "Financial, agricultural, cultural",
+    "option4": "Scientific, ecological, spiritual"
+  },
+  {
+    "question": "How many Sustainable Development Goals (SDGs) are there?",
+    "option1": 17,
+    "option2": 15,
+    "option3": 16,
+    "option4": 18
+  },
+  {
+    "question": "SDG 13 deals with:",
+    "option1": "Climate action",
+    "option2": "Clean water",
+    "option3": "Gender equality",
+    "option4": "Life on Land"
+  },
+  {
+    "question": "The Montreal Protocol is related to:",
+    "option1": "Ozone layer protection",
+    "option2": "Carbon credits",
+    "option3": "Climate change",
+    "option4": "Solid waste management"
+  },
+  {
+    "question": "Carbon credit is earned by:",
+    "option1": "Reducing greenhouse gas emissions",
+    "option2": "Using more fossil fuels",
+    "option3": "Increasing industrial waste",
+    "option4": "Importing resources"
+  },
+  {
+    "question": "The Brundtland Commission Report (1987) is famous for:",
+    "option1": "Definition of sustainable development",
+    "option2": "SDG targets",
+    "option3": "Environmental accounting",
+    "option4": "Carbon footprint analysis"
+  },
+  {
+    "question": "The Paris Agreement was signed in",
+    "option1": 2015,
+    "option2": 2016,
+    "option3": 1987,
+    "option4": 1992
+  },
+  {
+    "question": "The water footprint measures:",
+    "option1": "Total freshwater consumed directly and indirectly",
+    "option2": "Only industrial water use",
+    "option3": "Rainwater alone",
+    "option4": "Ocean water level"
+  },
+  {
+    "question": "Assertion (A): Renewable energy sources reduce greenhouse gas emissions. Reason (R): They do not emit CO? during operation.",
+    "option1": "A and R true, R is correct explanation",
+    "option2": "A and R true, but unrelated",
+    "option3": "A true, R false",
+    "option4": "A false, R true"
+  },
+  {
+    "question": "Which is a social aspect of sustainability?",
+    "option1": "Public health",
+    "option2": "Energy efficiency",
+    "option3": "Biodiversity",
+    "option4": "Recycling"
+  },
+  {
+    "question": "Kyoto Protocol is related to:",
+    "option1": "Greenhouse gas reduction",
+    "option2": "Ozone protection",
+    "option3": "Biodiversity",
+    "option4": "Forest laws"
+  },
+  {
+    "question": "A carbon credit equals:",
+    "option1": "1 tonne CO2?",
+    "option2": "1 kg CO2?",
+    "option3": "100 tonnes CO2?",
+    "option4": "10 tonnes CO2?"
+  },
+  {
+    "question": "Which SDG ensures Affordable and Clean Energy?",
+    "option1": "SDG 7",
+    "option2": "SDG 5",
+    "option3": "SDG 6",
+    "option4": "SDG 8"
+  },
+  {
+    "question": "Which is an example of climate change mitigation?",
+    "option1": "Afforestation",
+    "option2": "Overfishing",
+    "option3": "Urban sprawl",
+    "option4": "Burning coal"
+  },
+  {
+    "question": "Assertion (A): SDG 14 relates to Life below Water. Reason (R): It addresses marine pollution.",
+    "option1": "A and R true, R is correct explanation",
+    "option2": "A true, R false",
+    "option3": "Both false",
+    "option4": "A false, R true"
+  },
+  {
+    "question": "Which stage has highest carbon footprint in manufacturing?",
+    "option1": "Raw material extraction",
+    "option2": "Packaging",
+    "option3": "Transport",
+    "option4": "Disposal"
+  },
+  {
+    "question": "The main GHG from agriculture is:",
+    "option1": "Methane",
+    "option2": "CO2?",
+    "option3": "Nitrous oxide",
+    "option4": "Ozone"
+  },
+  {
+    "question": "Carbon neutrality means:",
+    "option1": "Balancing emitted & absorbed CO?",
+    "option2": "Zero energy use",
+    "option3": "Only solar energy",
+    "option4": "Avoiding trees"
+  },
+  {
+    "question": "Which SDG relates to Responsible Consumption & Production?",
+    "option1": "SDG 12",
+    "option2": "SDG 10",
+    "option3": "SDG 11",
+    "option4": "SDG 13"
+  },
+  {
+    "question": "Blue water in water footprint means:",
+    "option1": "Surface & groundwater",
+    "option2": "Rainwater",
+    "option3": "Polluted water",
+    "option4": "Desalinated water"
+  },
+  {
+    "question": "Which industry is largest CO? emitter?",
+    "option1": "Energy sector",
+    "option2": "Transport",
+    "option3": "Agriculture",
+    "option4": "Tourism"
+  },
+  {
+    "question": "ISO 14001 is related to:",
+    "option1": "Environmental management",
+    "option2": "Product safety",
+    "option3": "Profit maximization",
+    "option4": "Food quality"
+  },
+  {
+    "question": "The Clean Development Mechanism (CDM) is linked to:",
+    "option1": "Kyoto Protocol",
+    "option2": "Paris Agreement",
+    "option3": "Montreal Protocol",
+    "option4": "Doha Amendment"
+  },
+  {
+    "question": "Assertion (A): Paris Agreement is legally binding.Reason (R): Countries must follow strict international targets.",
+    "option1": "A true, R false",
+    "option2": "A and R true",
+    "option3": "A false, R true",
+    "option4": "Both false"
+  },
+  {
+    "question": "If a factory emits 500 tonnes CO? and offsets 600 tonnes via afforestation, it is:",
+    "option1": "Carbon negative",
+    "option2": "Neutral",
+    "option3": "Positive",
+    "option4": "None"
+  },
+  {
+    "question": "Grey water in footprint means:",
+    "option1": "Water needed to dilute pollutants",
+    "option2": "Household wastewater",
+    "option3": "Irrigation water",
+    "option4": "Rainwater"
+  },
+  {
+    "question": "Assertion (A): EVs have zero carbon footprint.Reason (R): They produce no tailpipe emissions.",
+    "option1": "A true, R false",
+    "option2": "A false, R true",
+    "option3": "Both true",
+    "option4": "Both false"
+  },
+  {
+    "question": "Circular economy promotes:",
+    "option1": "Reuse, recycling, repair",
+    "option2": "More mining",
+    "option3": "Single-use plastics",
+    "option4": "Export growth"
+  },
+  {
+    "question": "Main challenge in SDG 6 for developing nations:",
+    "option1": "Water scarcity",
+    "option2": "Excess rainfall",
+    "option3": "Overpopulation",
+    "option4": "High literacy"
+  },
+  {
+    "question": "The precautionary principle means:",
+    "option1": "Act without full certainty to prevent harm",
+    "option2": "Wait for proof",
+    "option3": "Reduce costs first",
+    "option4": "Follow only rules"
+  },
+  {
+    "question": "Largest contributor to global warming is:",
+    "option1": "Carbon dioxide",
+    "option2": "Ozone",
+    "option3": "Nitrous oxide",
+    "option4": "Hydrogen"
+  },
+  {
+    "question": "Assertion (A): Poverty eradication is essential for sustainability.Reason (R): SDG 1 is No Poverty.",
+    "option1": "Both true, R correct explanation",
+    "option2": "Both true, not explanation",
+    "option3": "A true, R false",
+    "option4": "A false, R true"
+  },
+  {
+    "question": "Carbon trading may fail because:",
+    "option1": "Can be misused for greenwashing",
+    "option2": "Encourages innovation",
+    "option3": "Promotes renewable energy",
+    "option4": "Encourages afforestation"
+  },
+  {
+    "question": "Ecological footprint measures:",
+    "option1": "Land required to sustain consumption",
+    "option2": "Pollution",
+    "option3": "Water use",
+    "option4": "Air emissions"
+  },
+  {
+    "question": "Which SDG ensures Life on Land?",
+    "option1": 15,
+    "option2": 13,
+    "option3": 14,
+    "option4": 16
+  },
+  {
+    "question": "Industrial case studies of sustainability highlight:",
+    "option1": "Cleaner production, waste minimization",
+    "option2": "Profit-only models",
+    "option3": "More exports",
+    "option4": "Energy-intensive growth"
+  },
+  {
+    "question": "One carbon credit equals reduction of:",
+    "option1": "1 tonne CO2?",
+    "option2": "1 kg CO2?",
+    "option3": "100 g CO2?",
+    "option4": "100 tonnes CO2?"
+  },
+  {
+    "question": "Which gas has highest Global Warming Potential?",
+    "option1": "SF6? (Sulfur hexafluoride)",
+    "option2": "CO2?",
+    "option3": "Methane",
+    "option4": "N2O"
+  },
+  {
+    "question": "Green buildings contribute to sustainability by:",
+    "option1": "Reducing energy and water consumption",
+    "option2": "Using more steel",
+    "option3": "Eliminating vegetation",
+    "option4": "Reducing costs only"
+  },
+  {
+    "question": "Environmental management systems in industries aim at:",
+    "option1": "Pollution prevention",
+    "option2": "Worker reduction",
+    "option3": "Export promotion",
+    "option4": "Profit maximization"
+  },
+  {
+    "question": "Assertion (A): Recycling reduces resource depletion.Reason (R): It increases landfill waste.",
+    "option1": "A true, R false",
+    "option2": "Both true",
+    "option3": "Both false",
+    "option4": "A false, R true"
+  },
+  {
+    "question": "Which SDG relates to Zero Hunger?",
+    "option1": 2,
+    "option2": 3,
+    "option3": 4,
+    "option4": 5
+  },
+  {
+    "question": "Which is NOT a renewable energy source?",
+    "option1": "Natural gas",
+    "option2": "Hydro",
+    "option3": "Wind",
+    "option4": "Biomass"
+  },
+  {
+    "question": "The principle of Polluter Pays means:",
+    "option1": "Polluters bear cost of cleanup",
+    "option2": "Subsidy for polluters",
+    "option3": "Victims bear costs",
+    "option4": "Government funds cleanup"
+  },
+  {
+    "question": "Which SDG targets gender equality?",
+    "option1": 5,
+    "option2": 3,
+    "option3": 4,
+    "option4": 6
+  },
+  {
+    "question": "Ozone depletion is mainly caused by:",
+    "option1": "CFCs",
+    "option2": "CO2?",
+    "option3": "Methane",
+    "option4": "Dust"
+  },
+  {
+    "question": "Assertion (A): Climate change is purely natural.Reason (R): Human activity does not impact climate.",
+    "option1": "Both false",
+    "option2": "A false, R true",
+    "option3": "Both true",
+    "option4": "A true, R false"
+  },
+  {
+    "question": "Assertion (A): Many Indian cities face difficulty in adopting sustainable solid waste management practices.\nReason (R): This is mainly because decentralized waste segregation at source is poorly implemented due to lack of awareness and weak enforcement mechanisms.",
+    "option1": "Both A and R are true, and R is the correct explanation of A.",
+    "option2": "Both A and R are true, but R is not the correct explanation of A.",
+    "option3": "A is true, but R is false.",
+    "option4": "A is false, but R is true."
+  },
+  {
+    "question": "Assertion (A): Transitioning to renewable energy in rural India is often slower despite abundant solar potential.\nReason (R): Rural communities face high initial costs of solar panels, poor grid integration, and limited technical support, which reduce adoption rates.",
+    "option1": "Both A and R are true, and R is the correct explanation of A.",
+    "option2": "Both A and R are true, but R is not the correct explanation of A.",
+    "option3": "A is true, but R is false.",
+    "option4": "A is false, but R is true."
+  },
+  {
+    "question": "Assertion (A): Sustainability requires balancing environmental, economic, and social dimensions.\nReason (R): Focusing only on environmental protection without considering social equity or economic growth may create unsustainable trade-offs.",
+    "option1": "Both A and R are true, and R is the correct explanation of A",
+    "option2": "Both A and R are true, but R is not the correct explanation of A.",
+    "option3": "A is true, but R is false.",
+    "option4": "A is false, but R is true."
+  },
+  {
+    "question": "Assertion (A): The UN Sustainable Development Goals (SDGs) provide a universal framework for achieving sustainability.\nReason (R): The SDGs address only poverty eradication and ignore climate change, biodiversity, and responsible consumption.",
+    "option1": "A is true, but R is false.",
+    "option2": "Both A and R are true, but R is not the correct explanation of A.",
+    "option3": "Both A and R are true, and R is the correct explanation of A.",
+    "option4": "A is false, but R is true."
+  },
+  {
+    "question": "Which of the following industries in India is most commonly linked to Carbon Credit generation through Clean Development Mechanism (CDM)?",
+    "option1": "Renewable Energy Projects",
+    "option2": "IT Sector",
+    "option3": "Textile Sector",
+    "option4": "Automobile Industry"
+  },
+  {
+    "question": "Assertion (A): Carbon Footprint is measured in terms of equivalent CO? emissions.\nReason (R): Different greenhouse gases (like CH?, N?O) are converted into CO? equivalents using their Global Warming Potential (GWP).",
+    "option1": "Both A and R are true, and R is the correct explanation of A",
+    "option2": "Both A and R are true, but R is not the correct explanation of A",
+    "option3": "A is true, but R is false",
+    "option4": "A is false, but R is true"
+  },
+  {
+    "question": "The Water Footprint of a product considers:\ni) Blue water (surface/groundwater used)\nii) Green water (rainwater used)\niii) Grey water (polluted water requiring treatment)",
+    "option1": "i, ii and iii",
+    "option2": "i and ii only",
+    "option3": "i and iii only",
+    "option4": "ii and iii only"
+  },
+  {
+    "question": "Assertion (A): Many industries adopt ISO 14001 certification for environmental management.\nReason (R): ISO 14001 provides guidelines for energy efficiency but does not address waste and water management.",
+    "option1": "A is true, but R is false",
+    "option2": "Both A and R are true, and R is the correct explanation of A",
+    "option3": "Both A and R are true, but R is not the correct explanation of A",
+    "option4": "A is false, but R is true"
+  },
+  {
+    "question": "Assertion (A): SDG 13 (Climate Action) is interconnected with SDG 7 (Affordable and Clean Energy).\nReason (R): Transition to renewable energy directly reduces greenhouse gas emissions, thereby mitigating climate change.",
+    "option1": "Both A and R are true, and R is the correct explanation of A",
+    "option2": "Both A and R are true, but R is not the correct explanation of A",
+    "option3": "A is true, but R is false",
+    "option4": "A is false, but R is true"
+  },
+  {
+    "question": "A coastal city in India experiences frequent urban flooding due to climate change driven sea-level rise and unplanned development. Which set of interventions aligns with both SDG 11 (Sustainable Cities) and SDG 13 (Climate Action)?",
+    "option1": "Promoting green infrastructure, rainwater harvesting, and mangrove restoration",
+    "option2": "Expanding impervious roads and widening highways",
+    "option3": "Increasing diesel pump stations for flood control",
+    "option4": "Relocating industries without considering urban planning"
+  },
+  {
+    "question": "Which of the following combinations correctly matches regional environmental issue SDG intervention area possible solution?\n\ni) Indo-Gangetic Plain - Air pollution - Adoption of clean cooking fuels\nii) Sub-Saharan Africa - Water scarcity - Drip irrigation and desalination\niii) Small Island Nations - Climate vulnerability - Climate-resilient infrastructure\niv) Western Europe - Desertification - Afforestation of tropical forests",
+    "option1": "i, ii, and iii only",
+    "option2": "i and ii only",
+    "option3": "ii and iv only",
+    "option4": "All four (i, ii, iii, iv)"
+  },
+  {
+    "question": "ISO 14000 standards are developed by:",
+    "option1": "International Organization for Standardization (ISO)",
+    "option2": "United Nations",
+    "option3": "World Trade Organization",
+    "option4": "World Bank"
+  },
+  {
+    "question": "Which of the following is NOT a principle of the 3R concept?",
+    "option1": "Refuel",
+    "option2": "Reduce",
+    "option3": "Reuse",
+    "option4": "Recycle"
+  },
+  {
+    "question": "Zero waste strategy aims at:",
+    "option1": "Complete elimination of waste generation",
+    "option2": "Reducing cost of production",
+    "option3": "Producing energy from waste",
+    "option4": "Using only renewable resources"
+  },
+  {
+    "question": "In circular economy, the main focus is on:",
+    "option1": "Product reuse and resource efficiency",
+    "option2": "Linear consumption of resources",
+    "option3": "Increasing fossil fuel use",
+    "option4": "Exporting waste to other countries"
+  },
+  {
+    "question": "The linear economy model follows which sequence?",
+    "option1": "Extract-Produce-Dispose",
+    "option2": "Make-Use-Recycle",
+    "option3": "Reuse-Recycle-Remanufacture",
+    "option4": "Reduce-Reuse-Recycle"
+  },
+  {
+    "question": "Cradle-to-cradle approach is linked with:",
+    "option1": "Circular economy",
+    "option2": "Linear economy",
+    "option3": "Fossil energy use",
+    "option4": "Urban sprawl"
+  },
+  {
+    "question": "Which international organization popularized the concept of circular economy?",
+    "option1": "Ellen MacArthur Foundation",
+    "option2": "UNDP",
+    "option3": "World Bank",
+    "option4": "UNEP"
+  },
+  {
+    "question": "Industrial symbiosis in circular economy refers to:",
+    "option1": "Sharing of waste/resources among industries",
+    "option2": "Disposal of waste in landfills",
+    "option3": "Building energy-efficient homes",
+    "option4": "Offsetting carbon emissions"
+  },
+  {
+    "question": "A Zero-waste city ensures:",
+    "option1": "100% recycling and recovery of materials",
+    "option2": "100% incineration of waste",
+    "option3": "Disposal in controlled landfills",
+    "option4": "More energy consumption"
+  },
+  {
+    "question": "LCA stands for:",
+    "option1": "Life Cycle Assessment",
+    "option2": "Life Carbon Analysis",
+    "option3": "Low Carbon Adaptation",
+    "option4": "Long-term Climate Action"
+  },
+  {
+    "question": "ISO 14040 standard deals with:",
+    "option1": "Life Cycle Assessment framework",
+    "option2": "Environmental auditing",
+    "option3": "Energy labeling",
+    "option4": "Wastewater treatment"
+  },
+  {
+    "question": "Which is NOT a phase of Life Cycle Assessment?",
+    "option1": "Revenue generation",
+    "option2": "Goal and scope definition",
+    "option3": "Inventory analysis",
+    "option4": "Impact assessment"
+  },
+  {
+    "question": "Functional unit in LCA represents:",
+    "option1": "Standardized measure of service/product performance",
+    "option2": "Total cost of product",
+    "option3": "The emission per factory",
+    "option4": "Recyclable component"
+  },
+  {
+    "question": "Cradle-to-grave assessment includes:",
+    "option1": "Extraction to disposal",
+    "option2": "Recycling only",
+    "option3": "Use phase only",
+    "option4": "Transport emissions only"
+  },
+  {
+    "question": "ISO 14001 primarily relates to:",
+    "option1": "Environmental management systems",
+    "option2": "Occupational health and safety",
+    "option3": "Product quality standards",
+    "option4": "Energy audits"
+  },
+  {
+    "question": "Carbon footprint assessment is an example of:",
+    "option1": "LCA impact assessment",
+    "option2": "Environmental audit",
+    "option3": "Cost benefit analysis",
+    "option4": "Green building certification"
+  },
+  {
+    "question": "In LCA, midpoint indicators measure:",
+    "option1": "Cause-effect chain at problem level",
+    "option2": "Socio-economic effects",
+    "option3": "Direct financial savings",
+    "option4": "Biodiversity conservation"
+  },
+  {
+    "question": "Which of the following is a limitation of LCA?",
+    "option1": "It requires assumptions and large data",
+    "option2": "It ignores energy consumption",
+    "option3": "It cannot compare materials",
+    "option4": "It cannot be standardized"
+  },
+  {
+    "question": "EIA is mandated in India under which Act?",
+    "option1": "Environment Protection Act 1986",
+    "option2": "Air Act 1981",
+    "option3": "Water Act 1974",
+    "option4": "Factories Act 1948"
+  },
+  {
+    "question": "Scoping in EIA refers to:",
+    "option1": "Identifying potential impacts and issues",
+    "option2": "Monitoring post-project impacts",
+    "option3": "Auditing industrial waste",
+    "option4": "Licensing industries"
+  },
+  {
+    "question": "Which of the following is a limitation of EIA?",
+    "option1": "Cannot predict cumulative impacts accurately",
+    "option2": "Prevents pollution",
+    "option3": "Protects biodiversity",
+    "option4": "Encourages renewable use"
+  },
+  {
+    "question": "Rapid EIA refers to assessment within:",
+    "option1": "3 months",
+    "option2": "1 week",
+    "option3": "6 months",
+    "option4": "1 year"
+  },
+  {
+    "question": "Social impact assessment (SIA) is usually part of:",
+    "option1": "EIA",
+    "option2": "LCA",
+    "option3": "ISO 9001",
+    "option4": "Green building certification"
+  },
+  {
+    "question": "Which one is NOT an EIA methodology?",
+    "option1": "Pareto chart",
+    "option2": "Checklist method",
+    "option3": "Overlay mapping",
+    "option4": "Network method"
+  },
+  {
+    "question": "The public hearing stage in EIA is important for:",
+    "option1": "Transparency and participation",
+    "option2": "Industrial profit",
+    "option3": "Technical validation only",
+    "option4": "Environmental clearance bypass"
+  },
+  {
+    "question": "Which rating system is used in India for green buildings?",
+    "option1": "GRIHA",
+    "option2": "LEED",
+    "option3": "BREEAM",
+    "option4": "WELL"
+  },
+  {
+    "question": "Fly ash bricks are considered a:",
+    "option1": "Green building material",
+    "option2": "Hazardous material",
+    "option3": "Non-renewable material",
+    "option4": "Synthetic material"
+  },
+  {
+    "question": "Which of the following is NOT a feature of green buildings?",
+    "option1": "High embodied energy materials",
+    "option2": "Natural lighting",
+    "option3": "Energy efficiency",
+    "option4": "Rainwater harvesting"
+  },
+  {
+    "question": "Embodied energy of a material refers to:",
+    "option1": "Total energy consumed during production, transport, and installation",
+    "option2": "Energy used in lighting the building",
+    "option3": "Operational energy",
+    "option4": "Energy saved through recycling"
+  },
+  {
+    "question": "The concept of passive solar design in buildings aims to:",
+    "option1": "Minimize use of air conditioning",
+    "option2": "Increase fossil fuel dependence",
+    "option3": "Reduce natural lighting",
+    "option4": "Increase artificial heating"
+  },
+  {
+    "question": "Which material has the highest embodied energy?",
+    "option1": "Glass",
+    "option2": "Cement",
+    "option3": "Timber",
+    "option4": "Brick"
+  },
+  {
+    "question": "Net-zero energy buildings are those that:",
+    "option1": "Produce as much energy as they consume",
+    "option2": "Do not use any energy",
+    "option3": "Are built with only recycled materials",
+    "option4": "Generate energy from fossil fuels"
+  },
+  {
+    "question": "Which is the most sustainable transport mode among the following?",
+    "option1": "Bicycle",
+    "option2": "Car",
+    "option3": "Bus",
+    "option4": "Airplane"
+  },
+  {
+    "question": "The primary aim of sustainable transport is:",
+    "option1": "Reducing carbon emissions and congestion",
+    "option2": "Promoting private vehicle ownership",
+    "option3": "Building more highways",
+    "option4": "Encouraging air travel"
+  },
+  {
+    "question": "Electric vehicles are more sustainable mainly because:",
+    "option1": "They have zero tailpipe emissions",
+    "option2": "They are cheaper than petrol cars",
+    "option3": "They require no energy input",
+    "option4": "They increase fossil fuel demand"
+  },
+  {
+    "question": "Which of the following is NOT a non-conventional energy source?",
+    "option1": "Nuclear",
+    "option2": "Solar",
+    "option3": "Wind",
+    "option4": "Biomass"
+  },
+  {
+    "question": "Hydrogen fuel cells produce electricity with by-product:",
+    "option1": "Water",
+    "option2": "CO2?",
+    "option3": "Sulphur",
+    "option4": "Methane"
+  },
+  {
+    "question": "Energy cycle related to emission and sequestration mainly refers to:",
+    "option1": "Carbon cycle",
+    "option2": "Sulphur cycle",
+    "option3": "Nitrogen cycle",
+    "option4": "Phosphorus cycle"
+  },
+  {
+    "question": "Carbon sequestration can be enhanced by:",
+    "option1": "Afforestation",
+    "option2": "Deforestation",
+    "option3": "Mining activities",
+    "option4": "Burning fossil fuels"
+  },
+  {
+    "question": "Which renewable source is most location-specific?",
+    "option1": "Tidal",
+    "option2": "Solar",
+    "option3": "Wind",
+    "option4": "Biomass"
+  },
+  {
+    "question": "Which technology is most suitable for decentralized rural electrification?",
+    "option1": "Solar PV",
+    "option2": "Nuclear",
+    "option3": "Coal-fired power",
+    "option4": "Gas turbines"
+  },
+  {
+    "question": "Green engineering primarily aims at:",
+    "option1": "Designing products and processes with minimal environmental impact",
+    "option2": "Maximizing profit",
+    "option3": "Increasing fossil fuel efficiency",
+    "option4": "Reducing labor cost"
+  },
+  {
+    "question": "Eco-design principle in green engineering emphasizes:",
+    "option1": "Design for environment",
+    "option2": "Design for waste",
+    "option3": "Design for rapid obsolescence",
+    "option4": "Design for profit"
+  },
+  {
+    "question": "Sustainable urbanization is MOST closely linked with:",
+    "option1": "Smart cities concept",
+    "option2": "Overpopulation",
+    "option3": "Industrialization",
+    "option4": "Urban sprawl"
+  },
+  {
+    "question": "Which UN goal focuses on sustainable cities and communities?",
+    "option1": "SDG 11",
+    "option2": "SDG 9",
+    "option3": "SDG 10",
+    "option4": "SDG 13"
+  },
+  {
+    "question": "Mixed land use planning in cities helps in:",
+    "option1": "Reducing commuting distances",
+    "option2": "Encouraging automobile use",
+    "option3": "Increasing pollution",
+    "option4": "Decreasing walkability"
+  },
+  {
+    "question": "Socio-economic sustainability in cities includes:",
+    "option1": "All of the above",
+    "option2": "Housing for all",
+    "option3": "Access to healthcare and education",
+    "option4": "Employment opportunities"
+  },
+  {
+    "question": "Which urban transport strategy reduces emissions most effectively?",
+    "option1": "Carpooling",
+    "option2": "Free parking zones",
+    "option3": "Express highways",
+    "option4": "Fuel subsidies"
+  },
+  {
+    "question": "One key principle of sustainable urban development is:",
+    "option1": "Compact city design",
+    "option2": "Higher waste generation",
+    "option3": "Increasing car ownership",
+    "option4": "Relocation of industries only"
+  },
+  {
+    "question": "Which factor is NOT directly linked with sustainable urbanization?",
+    "option1": "Higher consumerism",
+    "option2": "Renewable energy adoption",
+    "option3": "Energy-efficient buildings",
+    "option4": "Urban greenery"
+  },
+  {
+    "question": "Which is an example of technological change for sustainable cities?",
+    "option1": "All of the above",
+    "option2": "Solar rooftops",
+    "option3": "Smart grids",
+    "option4": "Electric mobility"
+  },
+  {
+    "question": "A city that reuses treated wastewater for irrigation follows:",
+    "option1": "Zero waste principle",
+    "option2": "EIA",
+    "option3": "Fossil economy",
+    "option4": "ISO 9000"
+  },
+  {
+    "question": "Which combination best ensures low-carbon concrete?",
+    "option1": "OPC + Fly Ash + GGBS",
+    "option2": "OPC + Plastic",
+    "option3": "OPC + Sand + Steel",
+    "option4": "OPC + Limestone only"
+  },
+  {
+    "question": "Waste-to-energy plants fall under which sustainability practice?",
+    "option1": "Circular economy",
+    "option2": "Green engineering",
+    "option3": "Green transport",
+    "option4": "ISO 14040"
+  },
+  {
+    "question": "The major drawback of solar PV is:",
+    "option1": "Intermittent power generation",
+    "option2": "No emissions",
+    "option3": "Scalability",
+    "option4": "Easy installation"
+  },
+  {
+    "question": "In urban mobility, BRTS stands for:",
+    "option1": "Bus Rapid Transit System",
+    "option2": "Bio Renewable Transport Strategy",
+    "option3": "Built Renewable Transport Scheme",
+    "option4": "Battery Recycling Transport System"
+  },
+  {
+    "question": "Which is an example of sequestration technology?",
+    "option1": "Direct air capture",
+    "option2": "Steel production",
+    "option3": "Coal mining",
+    "option4": "Fossil fuel burning"
+  },
+  {
+    "question": "Life cycle cost analysis of a building would include:",
+    "option1": "Operation, maintenance, and disposal cost",
+    "option2": "Initial cost only",
+    "option3": "Decoration cost only",
+    "option4": "Land cost only"
+  },
+  {
+    "question": "Which one is a socio-economic benefit of green buildings?",
+    "option1": "All of the above",
+    "option2": "Reduced health costs",
+    "option3": "Increased productivity",
+    "option4": "Better indoor air quality"
+  },
+  {
+    "question": "Which practice directly aligns with Green Engineering?",
+    "option1": "Designing biodegradable plastics",
+    "option2": "Burning fossil fuels efficiently",
+    "option3": "Using asbestos in construction",
+    "option4": "Landfilling industrial waste"
+  },
+  {
+    "question": "Sustainable development is best described as:",
+    "option1": "Meeting present needs without compromising future generations",
+    "option2": "Unlimited growth at any cost",
+    "option3": "Maximum profit orientation",
+    "option4": "Exclusive use of fossil fuels" 
+  },
+  {
+    "question": "Which of the following is NOT a principle of the 3R concept?",
+    "option1": "Refuel",
+    "option2": "Reduce",
+    "option3": "Reuse",
+    "option4": "Recycle"
+  },
+  {
+    "question": "Zero waste strategy aims at:",
+    "option1": "Complete elimination of waste generation",
+    "option2": "Reducing cost of production",
+    "option3": "Producing energy from waste",
+    "option4": "Using only renewable resources"
+  },
+  {
+    "question": "In circular economy, the main focus is on:",
+    "option1": "Product reuse and resource efficiency",
+    "option2": "Linear consumption of resources",
+    "option3": "Increasing fossil fuel use",
+    "option4": "Exporting waste to other countries"
+  },
+  {
+    "question": "The linear economy model follows which sequence?",
+    "option1": "Extract-Produce-Dispose",
+    "option2": "Make-Use-Recycle",
+    "option3": "Reuse-Recycle-Remanufacture",
+    "option4": "Reduce-Reuse-Recycle"
+  },
+  {
+    "question": "'Cradle-to-cradle' approach is linked with:",
+    "option1": "Circular economy",
+    "option2": "Linear economy",
+    "option3": "Fossil energy use",
+    "option4": "Urban sprawl"
+  },
+  {
+    "question": "Which international organization popularized the concept of circular economy?",
+    "option1": "Ellen MacArthur Foundation",
+    "option2": "UNDP",
+    "option3": "World Bank",
+    "option4": "UNEP"
+  },
+  {
+    "question": "Industrial symbiosis in circular economy refers to:",
+    "option1": "Sharing of waste/resources among industries",
+    "option2": "Disposal of waste in landfills",
+    "option3": "Building energy-efficient homes",
+    "option4": "Offsetting carbon emissions"
+  },
+  {
+    "question": "A 'Zero-waste city' ensures:",
+    "option1": "100% recycling and recovery of materials",
+    "option2": "100% incineration of waste",
+    "option3": "Disposal in controlled landfills",
+    "option4": "More energy consumption"
+  },
+  {
+    "question": "LCA stands for:",
+    "option1": "Life Cycle Assessment",
+    "option2": "Life Carbon Analysis",
+    "option3": "Low Carbon Adaptation",
+    "option4": "Long-term Climate Action"
+  },
+  {
+    "question": "ISO 14040 standard deals with:",
+    "option1": "Life Cycle Assessment framework",
+    "option2": "Environmental auditing",
+    "option3": "Energy labeling",
+    "option4": "Wastewater treatment"
+  },
+  {
+    "question": "Which is NOT a phase of Life Cycle Assessment?",
+    "option1": "Revenue generation",
+    "option2": "Goal and scope definition",
+    "option3": "Inventory analysis",
+    "option4": "Impact assessment"
+  },
+  {
+    "question": "Functional unit in LCA represents:",
+    "option1": "Standardized measure of service/product performance",
+    "option2": "Total cost of product",
+    "option3": "The emission per factory",
+    "option4": "Recyclable component"
+  },
+  {
+    "question": "Cradle-to-grave' assessment includes:",
+    "option1": "Extraction to disposal",
+    "option2": "Recycling only",
+    "option3": "Use phase only",
+    "option4": "Transport emissions only"
+  },
+  {
+    "question": "ISO 14001 primarily relates to:",
+    "option1": "Environmental management systems",
+    "option2": "Occupational health and safety",
+    "option3": "Product quality standards",
+    "option4": "Energy audits"
+  },
+  {
+    "question": "Carbon footprint assessment is an example of:",
+    "option1": "LCA impact assessment",
+    "option2": "Environmental audit",
+    "option3": "Cost–benefit analysis",
+    "option4": "Green building certification"
+  },
+  {
+    "question": "In LCA, midpoint indicators measure:",
+    "option1": "Cause-effect chain at problem level",
+    "option2": "Socio-economic effects",
+    "option3": "Direct financial savings",
+    "option4": "Biodiversity conservation"
+  },
+  {
+    "question": "Which of the following is a limitation of LCA?",
+    "option1": "It requires assumptions and large data",
+    "option2": "It ignores energy consumption",
+    "option3": "It cannot compare materials",
+    "option4": "It cannot be standardized"
+  },
+  {
+    "question": "EIA is mandated in India under which Act?",
+    "option1": "Environment Protection Act 1986",
+    "option2": "Air Act 1981",
+    "option3": "Water Act 1974",
+    "option4": "Factories Act 1948"
+  },
+  {
+    "question": "Scoping in EIA refers to:",
+    "option1": "Identifying potential impacts and issues",
+    "option2": "Monitoring post-project impacts",
+    "option3": "Auditing industrial waste",
+    "option4": "Licensing industries"
+  },
+  {
+    "question": "Which of the following is a limitation of EIA?",
+    "option1": "Cannot predict cumulative impacts accurately",
+    "option2": "Prevents pollution",
+    "option3": "Protects biodiversity",
+    "option4": "Encourages renewable use"
+  },
+  {
+    "question": "Rapid EIA refers to assessment within:",
+    "option1": "3 months",
+    "option2": "1 week",
+    "option3": "6 months",
+    "option4": "1 year"
+  },
+  {
+    "question": "Social impact assessment (SIA) is usually part of:",
+    "option1": "EIA",
+    "option2": "LCA",
+    "option3": "ISO 9001",
+    "option4": "Green building certification"
+  },
+  {
+    "question": "Which one is NOT an EIA methodology?",
+    "option1": "Pareto chart",
+    "option2": "Checklist method",
+    "option3": "Overlay mapping",
+    "option4": "Network method"
+  },
+  {
+    "question": "The public hearing stage in EIA is important for:",
+    "option1": "Transparency and participation",
+    "option2": "Industrial profit",
+    "option3": "Technical validation only",
+    "option4": "Environmental clearance bypass"
+  },
+  {
+    "question": "Which rating system is used in India for green buildings?",
+    "option1": "GRIHA",
+    "option2": "LEED",
+    "option3": "BREEAM",
+    "option4": "WELL"
+  },
+  {
+    "question": "Fly ash bricks are considered a:",
+    "option1": "Green building material",
+    "option2": "Hazardous material",
+    "option3": "Non-renewable material",
+    "option4": "Synthetic material"
+  },
+  {
+    "question": "Which of the following is NOT a feature of green buildings?",
+    "option1": "High embodied energy materials",
+    "option2": "Natural lighting",
+    "option3": "Energy efficiency",
+    "option4": "Rainwater harvesting"
+  },
+  {
+    "question": "Embodied energy of a material refers to:",
+    "option1": "Total energy consumed during production, transport, and installation",
+    "option2": "Energy used in lighting the building",
+    "option3": "Operational energy",
+    "option4": "Energy saved through recycling"
+  },
+  {
+    "question": "The concept of passive solar design in buildings aims to:",
+    "option1": "Minimize use of air conditioning",
+    "option2": "Increase fossil fuel dependence",
+    "option3": "Reduce natural lighting",
+    "option4": "Increase artificial heating"
+  },
+  {
+    "question": "Which material has the highest embodied energy?",
+    "option1": "Glass",
+    "option2": "Cement",
+    "option3": "Timber",
+    "option4": "Brick"
+  },
+  {
+    "question": "Net-zero energy buildings are those that:",
+    "option1": "Produce as much energy as they consume",
+    "option2": "Do not use any energy",
+    "option3": "Are built with only recycled materials",
+    "option4": "Generate energy from fossil fuels"
+  },
+  {
+    "question": "Which is the most sustainable transport mode among the following?",
+    "option1": "Bicycle",
+    "option2": "Car",
+    "option3": "Bus",
+    "option4": "Airplane"
+  },
+  {
+    "question": "The primary aim of sustainable transport is:",
+    "option1": "Reducing carbon emissions and congestion",
+    "option2": "Promoting private vehicle ownership",
+    "option3": "Building more highways",
+    "option4": "Encouraging air travel"
+  },
+  {
+    "question": "Electric vehicles are more sustainable mainly because:",
+    "option1": "They have zero tailpipe emissions",
+    "option2": "They are cheaper than petrol cars",
+    "option3": "They require no energy input",
+    "option4": "They increase fossil fuel demand"
+  },
+  {
+    "question": "Which of the following is NOT a non-conventional energy source?",
+    "option1": "Nuclear",
+    "option2": "Solar",
+    "option3": "Wind",
+    "option4": "Biomass"
+  },
+  {
+    "question": "Hydrogen fuel cells produce electricity with by-product:",
+    "option1": "Water",
+    "option2": "CO2",
+    "option3": "Sulphur",
+    "option4": "Methane"
+  },
+  {
+    "question": "Energy cycle related to emission and sequestration mainly refers to:",
+    "option1": "Carbon cycle",
+    "option2": "Sulphur cycle",
+    "option3": "Nitrogen cycle",
+    "option4": "Phosphorus cycle"
+  },
+  {
+    "question": "Carbon sequestration can be enhanced by:",
+    "option1": "Afforestation",
+    "option2": "Deforestation",
+    "option3": "Mining activities",
+    "option4": "Burning fossil fuels"
+  },
+  {
+    "question": "Which renewable source is most location-specific?",
+    "option1": "Tidal",
+    "option2": "Solar",
+    "option3": "Wind",
+    "option4": "Biomass"
+  },
+  {
+    "question": "Which technology is most suitable for decentralized rural electrification?",
+    "option1": "Solar PV",
+    "option2": "Nuclear",
+    "option3": "Coal-fired power",
+    "option4": "Gas turbines"
+  },
+  {
+    "question": "Green engineering primarily aims at:",
+    "option1": "Designing products and processes with minimal environmental impact",
+    "option2": "Maximizing profit",
+    "option3": "Increasing fossil fuel efficiency",
+    "option4": "Reducing labor cost"
+  },
+  {
+    "question": "Eco-design principle in green engineering emphasizes:",
+    "option1": "Design for environment",
+    "option2": "Design for waste",
+    "option3": "Design for rapid obsolescence",
+    "option4": "Design for profit"
+  },
+  {
+    "question": "Sustainable urbanization is MOST closely linked with:",
+    "option1": "Smart cities concept",
+    "option2": "Overpopulation",
+    "option3": "Industrialization",
+    "option4": "Urban sprawl"
+  },
+  {
+    "question": "Which UN goal focuses on sustainable cities and communities?",
+    "option1": "SDG 11",
+    "option2": "SDG 9",
+    "option3": "SDG 10",
+    "option4": "SDG 13"
+  },
+  {
+    "question": "Mixed land use planning in cities helps in:",
+    "option1": "Reducing commuting distances",
+    "option2": "Encouraging automobile use",
+    "option3": "Increasing pollution",
+    "option4": "Decreasing walkability"
+  },
+  {
+    "question": "Socio-economic sustainability in cities includes:",
+    "option1": "All of the above",
+    "option2": "Housing for all",
+    "option3": "Access to healthcare and education",
+    "option4": "Employment opportunities"
+  },
+  {
+    "question": "Which urban transport strategy reduces emissions most effectively?",
+    "option1": "Carpooling",
+    "option2": "Free parking zones",
+    "option3": "Express highways",
+    "option4": "Fuel subsidies"
+  },
+  {
+    "question": "One key principle of sustainable urban development is:",
+    "option1": "Compact city design",
+    "option2": "Higher waste generation",
+    "option3": "Increasing car ownership",
+    "option4": "Relocation of industries only"
+  },
+  {
+    "question": "Which factor is NOT directly linked with sustainable urbanization?",
+    "option1": "Higher consumerism",
+    "option2": "Renewable energy adoption",
+    "option3": "Energy-efficient buildings",
+    "option4": "Urban greenery"
+  },
+  {
+    "question": "Which is an example of technological change for sustainable cities?",
+    "option1": "All of the above",
+    "option2": "Solar rooftops",
+    "option3": "Smart grids",
+    "option4": "Electric mobility"
+  },
+  {
+    "question": "A city that reuses treated wastewater for irrigation follows:",
+    "option1": "Zero waste principle",
+    "option2": "EIA",
+    "option3": "Fossil economy",
+    "option4": "ISO 9000"
+  },
+  {
+    "question": "Which combination best ensures low-carbon concrete?",
+    "option1": "OPC + Fly Ash + GGBS",
+    "option2": "OPC + Plastic",
+    "option3": "OPC + Sand + Steel",
+    "option4": "OPC + Limestone only"
+  },
+  {
+    "question": "Waste-to-energy plants' fall under which sustainability practice?",
+    "option1": "Circular economy",
+    "option2": "Green engineering",
+    "option3": "Green transport",
+    "option4": "ISO 14040"
+  },
+  {
+    "question": "The major drawback of solar PV is:",
+    "option1": "Intermittent power generation",
+    "option2": "No emissions",
+    "option3": "Scalability",
+    "option4": "Easy installation"
+  },
+  {
+    "question": "In urban mobility, BRTS stands for:",
+    "option1": "Bus Rapid Transit System",
+    "option2": "Bio Renewable Transport Strategy",
+    "option3": "Built Renewable Transport Scheme",
+    "option4": "Battery Recycling Transport System"
+  },
+  {
+    "question": "Which is an example of sequestration technology?",
+    "option1": "Direct air capture",
+    "option2": "Steel production",
+    "option3": "Coal mining",
+    "option4": "Fossil fuel burning"
+  },
+  {
+    "question": "Life cycle cost analysis of a building would include:",
+    "option1": "Operation, maintenance, and disposal cost",
+    "option2": "Initial cost only",
+    "option3": "Decoration cost only",
+    "option4": "Land cost only"
+  },
+  {
+    "question": "Which one is a socio-economic benefit of green buildings?",
+    "option1": "All of the above",
+    "option2": "Reduced health costs",
+    "option3": "Increased productivity",
+    "option4": "Better indoor air quality"
+  },
+  {
+    "question": "Which practice directly aligns with 'Green Engineering'?",
+    "option1": "Designing biodegradable plastics",
+    "option2": "Burning fossil fuels efficiently",
+    "option3": "Using asbestos in construction",
+    "option4": "Landfilling industrial waste"
+  },
+  {
+    "question": "Sustainable development is best described as:",
+    "option1": "Meeting present needs without compromising future generations",
+    "option2": "Unlimited growth at any cost",
+    "option3": "Maximum profit orientation",
+    "option4": "Exclusive use of fossil fuels"
+  }
+]
